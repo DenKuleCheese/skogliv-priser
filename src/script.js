@@ -5,8 +5,7 @@ let iconCache = {};
 function hentData() {
   const urlParams = new URLSearchParams(window.location.search);
 
-  const basePath = window.location.pathname.replace(/\/[^/]*$/, "");
-  fetch(`${basePath}/src/produkter.json`)
+  fetch(`src/produkter.json`)
     .then((response) => response.json())
     .then((data) => {
       alleProdukter = data;
