@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Produktpriser</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <h1>Skogliv pris-katalog</h1>
+    <h3>Dette er en tidlig version! Dette er ikke slik den skal være!</h3>
+    <p class="undertekst">Følgene produkter er ikke i databasen:</p>
+    <ul>
+      <li>Enchantment bøker</li>
+      <li>Armor og utstyr som ikke er maxet ut</li>
+      <li>Potions</li>
+      <li>Bee nest som ikke har bier</li>
+      <li>Andre ting som har NBT data</li>
+    </ul>
+
+    <div class="sok-seksjon">
+      <input type="text" id="sokefelt" placeholder="Søk etter produkt..." />
+    </div>
+
+    <div id="loading">Laster data...</div>
+    <table id="prisTabel" style="display: none">
+      <thead>
+        <tr>
+          <th>Produkt</th>
+          <th>1. plass</th>
+          <th>2. plass</th>
+          <th>3. plass</th>
+        </tr>
+      </thead>
+      <tbody id="tabelBody"></tbody>
+    </table>
+
+    <script src="/src/script.js"></script>
+  </body>
+</html>

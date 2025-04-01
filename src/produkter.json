@@ -1,0 +1,10756 @@
+[
+  {
+    "key": "stone",
+    "Stack-size": 64,
+    "name": "Stone",
+    "Butikker": [
+      {
+        "butikk": "Thelittleshop",
+        "pris": 5,
+        "mengde": 32
+      },
+      {
+        "butikk": "Helios",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 3,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "granite",
+    "Stack-size": 64,
+    "name": "Granite",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "polished_granite",
+    "Stack-size": 64,
+    "name": "Polished Granite",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "diorite",
+    "Stack-size": 64,
+    "name": "Diorite",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "polished_diorite",
+    "Stack-size": 64,
+    "name": "Polished Diorite",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "andesite",
+    "Stack-size": 64,
+    "name": "Andesite",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "polished_andesite",
+    "Stack-size": 64,
+    "name": "Polished Andesite",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "deepslate",
+    "Stack-size": 64,
+    "name": "Deepslate",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "cobbled_deepslate",
+    "Stack-size": 64,
+    "name": "Cobbled Deepslate",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "polished_deepslate",
+    "Stack-size": 64,
+    "name": "Polished Deepslate",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "calcite",
+    "Stack-size": 64,
+    "name": "Calcite",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 7,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 45,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "tuff",
+    "Stack-size": 64,
+    "name": "Tuff",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "polished_tuff",
+    "Stack-size": 64,
+    "name": "Polished Tuff",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "tuff_bricks",
+    "Stack-size": 64,
+    "name": "Tuff Bricks",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "dripstone_block",
+    "Stack-size": 64,
+    "name": "Dripstone Block",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "grass_block",
+    "Stack-size": 64,
+    "name": "Grass Block",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 40,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "dirt",
+    "Stack-size": 64,
+    "name": "Dirt",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 3,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "coarse_dirt",
+    "Stack-size": 64,
+    "name": "Coarse Dirt",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "podzol",
+    "Stack-size": 64,
+    "name": "Podzol",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "rooted_dirt",
+    "Stack-size": 64,
+    "name": "Rooted Dirt",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "mud",
+    "Stack-size": 64,
+    "name": "Mud",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cobblestone",
+    "Stack-size": 64,
+    "name": "Cobblestone",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 3,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "oak_planks",
+    "Stack-size": 64,
+    "name": "Oak Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "spruce_planks",
+    "Stack-size": 64,
+    "name": "Spruce Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "birch_planks",
+    "Stack-size": 64,
+    "name": "Birch Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      },
+      {
+        "butikk": "Bakeriet",
+        "pris": 10,
+        "mengde": 5
+      }
+    ]
+  },
+  {
+    "key": "jungle_planks",
+    "Stack-size": 64,
+    "name": "Jungle Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "acacia_planks",
+    "Stack-size": 64,
+    "name": "Acacia Planks",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cherry_planks",
+    "Stack-size": 64,
+    "name": "Cherry Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 3,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "dark_oak_planks",
+    "Stack-size": 64,
+    "name": "Dark Oak Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "crimson_planks",
+    "Stack-size": 64,
+    "name": "Crimson Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 30,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "warped_planks",
+    "Stack-size": 64,
+    "name": "Warped Planks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "oak_sapling",
+    "Stack-size": 64,
+    "name": "Oak Sapling",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Bakeriet",
+        "pris": 1,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "spruce_sapling",
+    "Stack-size": 64,
+    "name": "Spruce Sapling",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Thelittleshop",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "birch_sapling",
+    "Stack-size": 64,
+    "name": "Birch Sapling",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 4
+      },
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "jungle_sapling",
+    "Stack-size": 64,
+    "name": "Jungle Sapling",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "acacia_sapling",
+    "Stack-size": 64,
+    "name": "Acacia Sapling",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "cherry_sapling",
+    "Stack-size": 64,
+    "name": "Cherry Sapling",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 4
+      },
+      {
+        "butikk": "Target",
+        "pris": 75,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "dark_oak_sapling",
+    "Stack-size": 64,
+    "name": "Dark Oak Sapling",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "mangrove_propagule",
+    "Stack-size": 64,
+    "name": "Mangrove Propagule",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "sand",
+    "Stack-size": 64,
+    "name": "Sand",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 5,
+        "mengde": 10
+      }
+    ]
+  },
+  {
+    "key": "red_sand",
+    "Stack-size": 64,
+    "name": "Red Sand",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 150,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "gravel",
+    "Stack-size": 64,
+    "name": "Gravel",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 15,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "coal_ore",
+    "Stack-size": 64,
+    "name": "Coal Ore",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 35,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_coal_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Coal Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "iron_ore",
+    "Stack-size": 64,
+    "name": "Iron Ore",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 40,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_iron_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Iron Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_copper_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Copper Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 40,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "gold_ore",
+    "Stack-size": 64,
+    "name": "Gold Ore",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 120,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_gold_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Gold Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "redstone_ore",
+    "Stack-size": 64,
+    "name": "Redstone Ore",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 35,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_redstone_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Redstone Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "lapis_ore",
+    "Stack-size": 64,
+    "name": "Lapis Lazuli Ore",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 155,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_lapis_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Lapis Lazuli Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_ore",
+    "Stack-size": 64,
+    "name": "Diamond Ore",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 380,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "deepslate_diamond_ore",
+    "Stack-size": 64,
+    "name": "Deepslate Diamond Ore",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "raw_iron_block",
+    "Stack-size": 64,
+    "name": "Block of Raw Iron",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 45,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "raw_copper_block",
+    "Stack-size": 64,
+    "name": "Block of Raw Copper",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 45,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "raw_gold_block",
+    "Stack-size": 64,
+    "name": "Block of Raw Gold",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "amethyst_block",
+    "Stack-size": 64,
+    "name": "Block of Amethyst",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 60,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "iron_block",
+    "Stack-size": 64,
+    "name": "Block of Iron",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 405,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 16
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 250,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "copper_block",
+    "Stack-size": 64,
+    "name": "Block of Copper",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 150,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 449,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "waxed_copper_block",
+    "Stack-size": 64,
+    "name": "Waxed Block of Copper",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 449,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "waxed_oxidized_copper",
+    "Stack-size": 64,
+    "name": "Waxed Oxidized Copper",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 449,
+        "mengde": 23
+      }
+    ]
+  },
+  {
+    "key": "waxed_oxidized_cut_copper",
+    "Stack-size": 64,
+    "name": "Waxed Oxidized Cut Copper",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 449,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "oak_log",
+    "Stack-size": 64,
+    "name": "Oak Log",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 6,
+        "mengde": 32
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "spruce_log",
+    "Stack-size": 64,
+    "name": "Spruce Log",
+    "Butikker": [
+      {
+        "butikk": "Axolotl",
+        "pris": 0,
+        "mengde": 64
+      },
+      {
+        "butikk": "Thelittleshop",
+        "pris": 0.5,
+        "mengde": 128
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 0.5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "birch_log",
+    "Stack-size": 64,
+    "name": "Birch Log",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 6,
+        "mengde": 32
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "jungle_log",
+    "Stack-size": 64,
+    "name": "Jungle Log",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Target",
+        "pris": 6,
+        "mengde": 32
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 15,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "acacia_log",
+    "Stack-size": 64,
+    "name": "Acacia Log",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 7,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cherry_log",
+    "Stack-size": 64,
+    "name": "Cherry Log",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 12,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 30,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "pale_oak_log",
+    "Stack-size": 64,
+    "name": "Pale Oak Log",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 5,
+        "mengde": 32
+      },
+      {
+        "butikk": "Axolotl",
+        "pris": 64,
+        "mengde": 32
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "dark_oak_log",
+    "Stack-size": 64,
+    "name": "Dark Oak Log",
+    "Butikker": [
+      {
+        "butikk": "Axolotl",
+        "pris": 0,
+        "mengde": 64
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Target",
+        "pris": 6,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "mangrove_log",
+    "Stack-size": 64,
+    "name": "Mangrove Log",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 40,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "muddy_mangrove_roots",
+    "Stack-size": 64,
+    "name": "Muddy Mangrove Roots",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 120,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "crimson_stem",
+    "Stack-size": 64,
+    "name": "Crimson Stem",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 60,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "warped_stem",
+    "Stack-size": 64,
+    "name": "Warped Stem",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 60,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "bamboo_block",
+    "Stack-size": 64,
+    "name": "Block of Bamboo",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 35,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "pale_oak_wood",
+    "Stack-size": 64,
+    "name": "Pale Oak Wood",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 7,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "oak_leaves",
+    "Stack-size": 64,
+    "name": "Oak Leaves",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "0o",
+        "pris": 48,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "spruce_leaves",
+    "Stack-size": 64,
+    "name": "Spruce Leaves",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "birch_leaves",
+    "Stack-size": 64,
+    "name": "Birch Leaves",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "jungle_leaves",
+    "Stack-size": 64,
+    "name": "Jungle Leaves",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "acacia_leaves",
+    "Stack-size": 64,
+    "name": "Acacia Leaves",
+    "Butikker": [
+      {
+        "butikk": "Billigshappa",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cherry_leaves",
+    "Stack-size": 64,
+    "name": "Cherry Leaves",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 35,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "dark_oak_leaves",
+    "Stack-size": 64,
+    "name": "Dark Oak Leaves",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "mangrove_leaves",
+    "Stack-size": 64,
+    "name": "Mangrove Leaves",
+    "Butikker": [
+      {
+        "butikk": "Billigshappa",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "azalea_leaves",
+    "Stack-size": 64,
+    "name": "Azalea Leaves",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "flowering_azalea_leaves",
+    "Stack-size": 64,
+    "name": "Flowering Azalea Leaves",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "Axolotl",
+        "pris": 32,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 70,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "sponge",
+    "Stack-size": 64,
+    "name": "Sponge",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 450,
+        "mengde": 1
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 1000,
+        "mengde": 1
+      },
+      {
+        "butikk": "Helios",
+        "pris": 1400,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "glass",
+    "Stack-size": 64,
+    "name": "Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 12,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "tinted_glass",
+    "Stack-size": 64,
+    "name": "Tinted Glass",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 75,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "sandstone",
+    "Stack-size": 64,
+    "name": "Sandstone",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 64,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "cobweb",
+    "Stack-size": 64,
+    "name": "Cobweb",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 4
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "azalea",
+    "Stack-size": 64,
+    "name": "Azalea",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 40,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "flowering_azalea",
+    "Stack-size": 64,
+    "name": "Flowering Azalea",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 35,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "dead_bush",
+    "Stack-size": 64,
+    "name": "Dead Bush",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 6,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "seagrass",
+    "Stack-size": 64,
+    "name": "Seagrass",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 32,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "sea_pickle",
+    "Stack-size": 64,
+    "name": "Sea Pickle",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "white_wool",
+    "Stack-size": 64,
+    "name": "White Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 10,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "orange_wool",
+    "Stack-size": 64,
+    "name": "Orange Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "magenta_wool",
+    "Stack-size": 64,
+    "name": "Magenta Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "light_blue_wool",
+    "Stack-size": 64,
+    "name": "Light Blue Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "yellow_wool",
+    "Stack-size": 64,
+    "name": "Yellow Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Dome",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "lime_wool",
+    "Stack-size": 64,
+    "name": "Lime Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "pink_wool",
+    "Stack-size": 64,
+    "name": "Pink Wool",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Dome",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "gray_wool",
+    "Stack-size": 64,
+    "name": "Gray Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "light_gray_wool",
+    "Stack-size": 64,
+    "name": "Light Gray Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "cyan_wool",
+    "Stack-size": 64,
+    "name": "Cyan Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "purple_wool",
+    "Stack-size": 64,
+    "name": "Purple Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "blue_wool",
+    "Stack-size": 64,
+    "name": "Blue Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "brown_wool",
+    "Stack-size": 64,
+    "name": "Brown Wool",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Dome",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 30,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "green_wool",
+    "Stack-size": 64,
+    "name": "Green Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "red_wool",
+    "Stack-size": 64,
+    "name": "Red Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "black_wool",
+    "Stack-size": 64,
+    "name": "Black Wool",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "dandelion",
+    "Stack-size": 64,
+    "name": "Dandelion",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "poppy",
+    "Stack-size": 64,
+    "name": "Poppy",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 100,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "blue_orchid",
+    "Stack-size": 64,
+    "name": "Blue Orchid",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "allium",
+    "Stack-size": 64,
+    "name": "Allium",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "azure_bluet",
+    "Stack-size": 64,
+    "name": "Azure Bluet",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "red_tulip",
+    "Stack-size": 64,
+    "name": "Red Tulip",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "white_tulip",
+    "Stack-size": 64,
+    "name": "White Tulip",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "pink_tulip",
+    "Stack-size": 64,
+    "name": "Pink Tulip",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "oxeye_daisy",
+    "Stack-size": 64,
+    "name": "Oxeye Daisy",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "cornflower",
+    "Stack-size": 64,
+    "name": "Cornflower",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "lily_of_the_valley",
+    "Stack-size": 64,
+    "name": "Lily of the Valley",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "wither_rose",
+    "Stack-size": 64,
+    "name": "Wither Rose",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 30,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "torchflower",
+    "Stack-size": 64,
+    "name": "Torchflower",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "pitcher_plant",
+    "Stack-size": 64,
+    "name": "Pitcher Plant",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spore_blossom",
+    "Stack-size": 64,
+    "name": "Spore Blossom",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 150,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 300,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "brown_mushroom",
+    "Stack-size": 64,
+    "name": "Brown Mushroom",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 4
+      },
+      {
+        "butikk": "B",
+        "pris": 9,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "red_mushroom",
+    "Stack-size": 64,
+    "name": "Red Mushroom",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 4
+      },
+      {
+        "butikk": "B",
+        "pris": 9,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "warped_fungus",
+    "Stack-size": 64,
+    "name": "Warped Fungus",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 24,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "weeping_vines",
+    "Stack-size": 64,
+    "name": "Weeping Vines",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "twisting_vines",
+    "Stack-size": 64,
+    "name": "Twisting Vines",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "sugar_cane",
+    "Stack-size": 64,
+    "name": "Sugar Cane",
+    "Butikker": [
+      {
+        "butikk": "Helios",
+        "pris": 1,
+        "mengde": 128
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 1,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 1,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "kelp",
+    "Stack-size": 64,
+    "name": "Kelp",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "pink_petals",
+    "Stack-size": 64,
+    "name": "Pink Petals",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "moss_block",
+    "Stack-size": 64,
+    "name": "Moss Block",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "big_dripleaf",
+    "Stack-size": 64,
+    "name": "Big Dripleaf",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 70,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "small_dripleaf",
+    "Stack-size": 64,
+    "name": "Small Dripleaf",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 75,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "bamboo",
+    "Stack-size": 64,
+    "name": "Bamboo",
+    "Butikker": [
+      {
+        "butikk": "Butikk",
+        "pris": 4,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "purpur_slab",
+    "Stack-size": 64,
+    "name": "Purpur Slab",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "smooth_quartz",
+    "Stack-size": 64,
+    "name": "Smooth Quartz Block",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "smooth_stone",
+    "Stack-size": 64,
+    "name": "Smooth Stone",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 3,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 25,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "bricks",
+    "Stack-size": 64,
+    "name": "Bricks",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 40,
+        "mengde": 16
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 45,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 100,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "bookshelf",
+    "Stack-size": 64,
+    "name": "Bookshelf",
+    "Butikker": [
+      {
+        "butikk": "Ida",
+        "pris": 35,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 34,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "chiseled_bookshelf",
+    "Stack-size": 64,
+    "name": "Chiseled Bookshelf",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 12,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "decorated_pot",
+    "Stack-size": 64,
+    "name": "Decorated Pot",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "mossy_cobblestone",
+    "Stack-size": 64,
+    "name": "Mossy Cobblestone",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 349,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "obsidian",
+    "Stack-size": 64,
+    "name": "Obsidian",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 10
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 100,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ida",
+        "pris": 100,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "torch",
+    "Stack-size": 64,
+    "name": "Torch",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 7,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 14,
+        "mengde": 64
+      },
+      {
+        "butikk": "Helios",
+        "pris": 7,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "end_rod",
+    "Stack-size": 64,
+    "name": "End Rod",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "chorus_flower",
+    "Stack-size": 64,
+    "name": "Chorus Flower",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 4
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 80,
+        "mengde": 8
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "purpur_block",
+    "Stack-size": 64,
+    "name": "Purpur Block",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 32,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "purpur_pillar",
+    "Stack-size": 64,
+    "name": "Purpur Pillar",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 32,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "purpur_stairs",
+    "Stack-size": 64,
+    "name": "Purpur Stairs",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 40,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "creaking_heart",
+    "Stack-size": 64,
+    "name": "Creaking Heart",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 399,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "chest",
+    "Stack-size": 64,
+    "name": "Chest",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "furnace",
+    "Stack-size": 64,
+    "name": "Furnace",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 2,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "ladder",
+    "Stack-size": 64,
+    "name": "Ladder",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "snow",
+    "Stack-size": 64,
+    "name": "Snow",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 10,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "ice",
+    "Stack-size": 64,
+    "name": "Ice",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "snow_block",
+    "Stack-size": 64,
+    "name": "Snow Block",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 32
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cactus",
+    "Stack-size": 64,
+    "name": "Cactus",
+    "Butikker": [
+      {
+        "butikk": "Thelittleshop",
+        "pris": 0,
+        "mengde": 128
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 1,
+        "mengde": 64
+      },
+      {
+        "butikk": "Helios",
+        "pris": 1,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "clay",
+    "Stack-size": 64,
+    "name": "Clay",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 38,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 90,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "jukebox",
+    "Stack-size": 64,
+    "name": "Jukebox",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 100,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "pumpkin",
+    "Stack-size": 64,
+    "name": "Pumpkin",
+    "Butikker": [
+      {
+        "butikk": "Butikk",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 15,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "netherrack",
+    "Stack-size": 64,
+    "name": "Netherrack",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 2,
+        "mengde": 64
+      },
+      {
+        "butikk": "Target",
+        "pris": 2,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "soul_sand",
+    "Stack-size": 64,
+    "name": "Soul Sand",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 8,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "soul_soil",
+    "Stack-size": 64,
+    "name": "Soul Soil",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "basalt",
+    "Stack-size": 64,
+    "name": "Basalt",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 3,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "0o",
+        "pris": 30,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "smooth_basalt",
+    "Stack-size": 64,
+    "name": "Smooth Basalt",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 70,
+        "mengde": 64
+      },
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "soul_torch",
+    "Stack-size": 64,
+    "name": "Soul Torch",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 32,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 18,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "glowstone",
+    "Stack-size": 64,
+    "name": "Glowstone",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "0o",
+        "pris": 45,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 35,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "stone_bricks",
+    "Stack-size": 64,
+    "name": "Stone Bricks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 64
+      },
+      {
+        "butikk": "0o",
+        "pris": 22,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "mossy_stone_bricks",
+    "Stack-size": 64,
+    "name": "Mossy Stone Bricks",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 48,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "cracked_stone_bricks",
+    "Stack-size": 64,
+    "name": "Cracked Stone Bricks",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 48,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "packed_mud",
+    "Stack-size": 64,
+    "name": "Packed Mud",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 35,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "mud_bricks",
+    "Stack-size": 64,
+    "name": "Mud Bricks",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 35,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "brown_mushroom_block",
+    "Stack-size": 64,
+    "name": "Brown Mushroom Block",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "red_mushroom_block",
+    "Stack-size": 64,
+    "name": "Red Mushroom Block",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "mushroom_stem",
+    "Stack-size": 64,
+    "name": "Mushroom Stem",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "chain",
+    "Stack-size": 64,
+    "name": "Chain",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 35,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "glass_pane",
+    "Stack-size": 64,
+    "name": "Glass Pane",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "melon",
+    "Stack-size": 64,
+    "name": "Melon",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Helios",
+        "pris": 40,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 8,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "vine",
+    "Stack-size": 64,
+    "name": "Vines",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 40,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 25,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "glow_lichen",
+    "Stack-size": 64,
+    "name": "Glow Lichen",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "mycelium",
+    "Stack-size": 64,
+    "name": "Mycelium",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "lily_pad",
+    "Stack-size": 64,
+    "name": "Lily Pad",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 100,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "nether_bricks",
+    "Stack-size": 64,
+    "name": "Nether Bricks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 32,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "sculk",
+    "Stack-size": 64,
+    "name": "Sculk",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "sculk_vein",
+    "Stack-size": 64,
+    "name": "Sculk Vein",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 35,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "sculk_catalyst",
+    "Stack-size": 64,
+    "name": "Sculk Catalyst",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 25,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sculk_shrieker",
+    "Stack-size": 64,
+    "name": "Sculk Shrieker",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 120,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 135,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "enchanting_table",
+    "Stack-size": 64,
+    "name": "Enchanting Table",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 150,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "end_stone",
+    "Stack-size": 64,
+    "name": "End Stone",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 40,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "end_stone_bricks",
+    "Stack-size": 64,
+    "name": "End Stone Bricks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 32
+      },
+      {
+        "butikk": "Axolotl",
+        "pris": 48,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "ender_chest",
+    "Stack-size": 64,
+    "name": "Ender Chest",
+    "Butikker": [
+      {
+        "butikk": "SkogHolm",
+        "pris": 60,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 100,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 200,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "beacon",
+    "Stack-size": 64,
+    "name": "Beacon",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 4998,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 7500,
+        "mengde": 1
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 8000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "anvil",
+    "Stack-size": 64,
+    "name": "Anvil",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 60,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 99,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "quartz_block",
+    "Stack-size": 64,
+    "name": "Block of Quartz",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 100,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "quartz_bricks",
+    "Stack-size": 64,
+    "name": "Quartz Bricks",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 100,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "quartz_pillar",
+    "Stack-size": 64,
+    "name": "Quartz Pillar",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 100,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 425,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "white_terracotta",
+    "Stack-size": 64,
+    "name": "White Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "orange_terracotta",
+    "Stack-size": 64,
+    "name": "Orange Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "magenta_terracotta",
+    "Stack-size": 64,
+    "name": "Magenta Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "light_blue_terracotta",
+    "Stack-size": 64,
+    "name": "Light Blue Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "yellow_terracotta",
+    "Stack-size": 64,
+    "name": "Yellow Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "lime_terracotta",
+    "Stack-size": 64,
+    "name": "Lime Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "pink_terracotta",
+    "Stack-size": 64,
+    "name": "Pink Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "gray_terracotta",
+    "Stack-size": 64,
+    "name": "Gray Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "light_gray_terracotta",
+    "Stack-size": 64,
+    "name": "Light Gray Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cyan_terracotta",
+    "Stack-size": 64,
+    "name": "Cyan Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "purple_terracotta",
+    "Stack-size": 64,
+    "name": "Purple Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "blue_terracotta",
+    "Stack-size": 64,
+    "name": "Blue Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "brown_terracotta",
+    "Stack-size": 64,
+    "name": "Brown Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "green_terracotta",
+    "Stack-size": 64,
+    "name": "Green Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "red_terracotta",
+    "Stack-size": 64,
+    "name": "Red Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "black_terracotta",
+    "Stack-size": 64,
+    "name": "Black Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "terracotta",
+    "Stack-size": 64,
+    "name": "Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 60,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "packed_ice",
+    "Stack-size": 64,
+    "name": "Packed Ice",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "sunflower",
+    "Stack-size": 64,
+    "name": "Sunflower",
+    "Butikker": [
+      {
+        "butikk": "Ida",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "lilac",
+    "Stack-size": 64,
+    "name": "Lilac",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "rose_bush",
+    "Stack-size": 64,
+    "name": "Rose Bush",
+    "Butikker": [
+      {
+        "butikk": "Ida",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "peony",
+    "Stack-size": 64,
+    "name": "Peony",
+    "Butikker": [
+      {
+        "butikk": "Ida",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "white_stained_glass",
+    "Stack-size": 64,
+    "name": "White Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Helios",
+        "pris": 40,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "orange_stained_glass",
+    "Stack-size": 64,
+    "name": "Orange Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "magenta_stained_glass",
+    "Stack-size": 64,
+    "name": "Magenta Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "light_blue_stained_glass",
+    "Stack-size": 64,
+    "name": "Light Blue Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Helios",
+        "pris": 40,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "yellow_stained_glass",
+    "Stack-size": 64,
+    "name": "Yellow Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "lime_stained_glass",
+    "Stack-size": 64,
+    "name": "Lime Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "pink_stained_glass",
+    "Stack-size": 64,
+    "name": "Pink Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "gray_stained_glass",
+    "Stack-size": 64,
+    "name": "Gray Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "light_gray_stained_glass",
+    "Stack-size": 64,
+    "name": "Light Gray Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cyan_stained_glass",
+    "Stack-size": 64,
+    "name": "Cyan Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "purple_stained_glass",
+    "Stack-size": 64,
+    "name": "Purple Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "blue_stained_glass",
+    "Stack-size": 64,
+    "name": "Blue Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Helios",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "brown_stained_glass",
+    "Stack-size": 64,
+    "name": "Brown Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "green_stained_glass",
+    "Stack-size": 64,
+    "name": "Green Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "red_stained_glass",
+    "Stack-size": 64,
+    "name": "Red Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "black_stained_glass",
+    "Stack-size": 64,
+    "name": "Black Stained Glass",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Axolotl",
+        "pris": 64,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 128,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "prismarine",
+    "Stack-size": 64,
+    "name": "Prismarine",
+    "Butikker": [
+      {
+        "butikk": "Ida",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 40,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 25,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "prismarine_bricks",
+    "Stack-size": 64,
+    "name": "Prismarine Bricks",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "Ida",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 40,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "dark_prismarine",
+    "Stack-size": 64,
+    "name": "Dark Prismarine",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ida",
+        "pris": 70,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "prismarine_brick_stairs",
+    "Stack-size": 64,
+    "name": "Prismarine Brick Stairs",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 70,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "sea_lantern",
+    "Stack-size": 64,
+    "name": "Sea Lantern",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 62,
+        "mengde": 8
+      },
+      {
+        "butikk": "Ida",
+        "pris": 140,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "red_sandstone",
+    "Stack-size": 64,
+    "name": "Red Sandstone",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 64,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "magma_block",
+    "Stack-size": 64,
+    "name": "Magma Block",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "nether_wart_block",
+    "Stack-size": 64,
+    "name": "Nether Wart Block",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 64
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 30,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "warped_wart_block",
+    "Stack-size": 64,
+    "name": "Warped Wart Block",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 4,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 64
+      },
+      {
+        "butikk": "Target",
+        "pris": 30,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "red_nether_bricks",
+    "Stack-size": 64,
+    "name": "Red Nether Bricks",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 48,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "bone_block",
+    "Stack-size": 64,
+    "name": "Bone Block",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "shulker_box",
+    "Stack-size": 1,
+    "name": "Shulker Box",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 1100,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 1250,
+        "mengde": 1
+      },
+      {
+        "butikk": "Helios",
+        "pris": 1399,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "yellow_glazed_terracotta",
+    "Stack-size": 64,
+    "name": "Yellow Glazed Terracotta",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "white_concrete",
+    "Stack-size": 64,
+    "name": "White Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "orange_concrete",
+    "Stack-size": 64,
+    "name": "Orange Concrete",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "magenta_concrete",
+    "Stack-size": 64,
+    "name": "Magenta Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "light_blue_concrete",
+    "Stack-size": 64,
+    "name": "Light Blue Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "yellow_concrete",
+    "Stack-size": 64,
+    "name": "Yellow Concrete",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "lime_concrete",
+    "Stack-size": 64,
+    "name": "Lime Concrete",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "pink_concrete",
+    "Stack-size": 64,
+    "name": "Pink Concrete",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "gray_concrete",
+    "Stack-size": 64,
+    "name": "Gray Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "light_gray_concrete",
+    "Stack-size": 64,
+    "name": "Light Gray Concrete",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cyan_concrete",
+    "Stack-size": 64,
+    "name": "Cyan Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "purple_concrete",
+    "Stack-size": 64,
+    "name": "Purple Concrete",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "blue_concrete",
+    "Stack-size": 64,
+    "name": "Blue Concrete",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "brown_concrete",
+    "Stack-size": 64,
+    "name": "Brown Concrete",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "green_concrete",
+    "Stack-size": 64,
+    "name": "Green Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "red_concrete",
+    "Stack-size": 64,
+    "name": "Red Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "black_concrete",
+    "Stack-size": 64,
+    "name": "Black Concrete",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 70,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "white_concrete_powder",
+    "Stack-size": 64,
+    "name": "White Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "orange_concrete_powder",
+    "Stack-size": 64,
+    "name": "Orange Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "magenta_concrete_powder",
+    "Stack-size": 64,
+    "name": "Magenta Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "light_blue_concrete_powder",
+    "Stack-size": 64,
+    "name": "Light Blue Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "yellow_concrete_powder",
+    "Stack-size": 64,
+    "name": "Yellow Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "lime_concrete_powder",
+    "Stack-size": 64,
+    "name": "Lime Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "pink_concrete_powder",
+    "Stack-size": 64,
+    "name": "Pink Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "gray_concrete_powder",
+    "Stack-size": 64,
+    "name": "Gray Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      },
+      {
+        "butikk": "Target",
+        "pris": 49,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "light_gray_concrete_powder",
+    "Stack-size": 64,
+    "name": "Light Gray Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cyan_concrete_powder",
+    "Stack-size": 64,
+    "name": "Cyan Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "purple_concrete_powder",
+    "Stack-size": 64,
+    "name": "Purple Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "blue_concrete_powder",
+    "Stack-size": 64,
+    "name": "Blue Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "brown_concrete_powder",
+    "Stack-size": 64,
+    "name": "Brown Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "green_concrete_powder",
+    "Stack-size": 64,
+    "name": "Green Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "red_concrete_powder",
+    "Stack-size": 64,
+    "name": "Red Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "black_concrete_powder",
+    "Stack-size": 64,
+    "name": "Black Concrete Powder",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 50,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 80,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "turtle_egg",
+    "Stack-size": 64,
+    "name": "Turtle Egg",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 100,
+        "mengde": 4
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 200,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sniffer_egg",
+    "Stack-size": 64,
+    "name": "Sniffer Egg",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 30,
+        "mengde": 1
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 100,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "blue_ice",
+    "Stack-size": 64,
+    "name": "Blue Ice",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 64,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "scaffolding",
+    "Stack-size": 64,
+    "name": "Scaffolding",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "redstone",
+    "Stack-size": 64,
+    "name": "Redstone Dust",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 27,
+        "mengde": 64
+      },
+      {
+        "butikk": "SkogHolm",
+        "pris": 29,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "redstone_torch",
+    "Stack-size": 64,
+    "name": "Redstone Torch",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 40,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 16,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "redstone_block",
+    "Stack-size": 64,
+    "name": "Block of Redstone",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 100,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "repeater",
+    "Stack-size": 64,
+    "name": "Redstone Repeater",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "comparator",
+    "Stack-size": 64,
+    "name": "Redstone Comparator",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "piston",
+    "Stack-size": 64,
+    "name": "Piston",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 75,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sticky_piston",
+    "Stack-size": 64,
+    "name": "Sticky Piston",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 175,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 25,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "honey_block",
+    "Stack-size": 64,
+    "name": "Honey Block",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 45,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 4,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "observer",
+    "Stack-size": 64,
+    "name": "Observer",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 75,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "hopper",
+    "Stack-size": 64,
+    "name": "Hopper",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 50,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 8,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "dispenser",
+    "Stack-size": 64,
+    "name": "Dispenser",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "dropper",
+    "Stack-size": 64,
+    "name": "Dropper",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 35,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "target",
+    "Stack-size": 64,
+    "name": "Target",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "daylight_detector",
+    "Stack-size": 64,
+    "name": "Daylight Detector",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 35,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sculk_sensor",
+    "Stack-size": 64,
+    "name": "Sculk Sensor",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 25,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 95,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "tripwire_hook",
+    "Stack-size": 64,
+    "name": "Tripwire Hook",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "tnt",
+    "Stack-size": 64,
+    "name": "TNT",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 350,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "redstone_lamp",
+    "Stack-size": 64,
+    "name": "Redstone Lamp",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 40,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "note_block",
+    "Stack-size": 64,
+    "name": "Note Block",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 3,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "powered_rail",
+    "Stack-size": 64,
+    "name": "Powered Rail",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 35,
+        "mengde": 16
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 120,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "detector_rail",
+    "Stack-size": 64,
+    "name": "Detector Rail",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 6,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "rail",
+    "Stack-size": 64,
+    "name": "Rail",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "activator_rail",
+    "Stack-size": 64,
+    "name": "Activator Rail",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 32
+      },
+      {
+        "butikk": "B",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "saddle",
+    "Stack-size": 1,
+    "name": "Saddle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 50,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "phantom_membrane",
+    "Stack-size": 64,
+    "name": "Phantom Membrane",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 200,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "elytra",
+    "Stack-size": 1,
+    "name": "Elytra",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 1499,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 1500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spruce_boat",
+    "Stack-size": 1,
+    "name": "Spruce Boat",
+    "Butikker": [
+      {
+        "butikk": "BåtIs",
+        "pris": 5,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "turtle_helmet",
+    "Stack-size": 1,
+    "name": "Turtle Shell",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 50,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 100,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 170,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "turtle_scute",
+    "Stack-size": 64,
+    "name": "Turtle Scute",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 150,
+        "mengde": 5
+      }
+    ]
+  },
+  {
+    "key": "armadillo_scute",
+    "Stack-size": 64,
+    "name": "Armadillo Scute",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "wolf_armor",
+    "Stack-size": 1,
+    "name": "Wolf Armor",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 200,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "flint_and_steel",
+    "Stack-size": 1,
+    "name": "Flint and Steel",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "apple",
+    "Stack-size": 64,
+    "name": "Apple",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "bow",
+    "Stack-size": 1,
+    "name": "Bow",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 99,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 899,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "arrow",
+    "Stack-size": 64,
+    "name": "Arrow",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 3,
+        "mengde": 128
+      },
+      {
+        "butikk": "Helios",
+        "pris": 5,
+        "mengde": 128
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "coal",
+    "Stack-size": 64,
+    "name": "Coal",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "SkogHolm",
+        "pris": 28,
+        "mengde": 64
+      },
+      {
+        "butikk": "Axolotl",
+        "pris": 32,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "charcoal",
+    "Stack-size": 64,
+    "name": "Charcoal",
+    "Butikker": [
+      {
+        "butikk": "Butikk",
+        "pris": 8,
+        "mengde": 64
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "diamond",
+    "Stack-size": 64,
+    "name": "Diamond",
+    "Butikker": [
+      {
+        "butikk": "Axolotl",
+        "pris": 25,
+        "mengde": 1
+      },
+      {
+        "butikk": "0o",
+        "pris": 43,
+        "mengde": 1
+      },
+      {
+        "butikk": "SkogHolm",
+        "pris": 46,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "emerald",
+    "Stack-size": 64,
+    "name": "Emerald",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 34,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "lapis_lazuli",
+    "Stack-size": 64,
+    "name": "Lapis Lazuli",
+    "Butikker": [
+      {
+        "butikk": "SkogHolm",
+        "pris": 18,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "quartz",
+    "Stack-size": 64,
+    "name": "Nether Quartz",
+    "Butikker": [
+      {
+        "butikk": "Thelittleshop",
+        "pris": 35,
+        "mengde": 32
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 29,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 40,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "amethyst_shard",
+    "Stack-size": 64,
+    "name": "Amethyst Shard",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 64
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 25,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "iron_ingot",
+    "Stack-size": 64,
+    "name": "Iron Ingot",
+    "Butikker": [
+      {
+        "butikk": "Thelittleshop",
+        "pris": 29,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 20,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "raw_copper",
+    "Stack-size": 64,
+    "name": "Raw Copper",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "copper_ingot",
+    "Stack-size": 64,
+    "name": "Copper Ingot",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 40,
+        "mengde": 64
+      },
+      {
+        "butikk": "SkogHolm",
+        "pris": 27,
+        "mengde": 32
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "gold_ingot",
+    "Stack-size": 64,
+    "name": "Gold Ingot",
+    "Butikker": [
+      {
+        "butikk": "Billigshappa",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 24,
+        "mengde": 8
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "netherite_ingot",
+    "Stack-size": 64,
+    "name": "Netherite Ingot",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 750,
+        "mengde": 1
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 1350,
+        "mengde": 1
+      },
+      {
+        "butikk": "Nether",
+        "pris": 1500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_sword",
+    "Stack-size": 1,
+    "name": "Diamond Sword",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 1299,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_shovel",
+    "Stack-size": 1,
+    "name": "Diamond Shovel",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_pickaxe",
+    "Stack-size": 1,
+    "name": "Diamond Pickaxe",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_axe",
+    "Stack-size": 1,
+    "name": "Diamond Axe",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_hoe",
+    "Stack-size": 1,
+    "name": "Diamond Hoe",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_sword",
+    "Stack-size": 1,
+    "name": "Netherite Sword",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 3000,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 3500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_shovel",
+    "Stack-size": 1,
+    "name": "Netherite Shovel",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 2700,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 2900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_pickaxe",
+    "Stack-size": 1,
+    "name": "Netherite Pickaxe",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 2700,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 2900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_axe",
+    "Stack-size": 1,
+    "name": "Netherite Axe",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 2900,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 2900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "stick",
+    "Stack-size": 64,
+    "name": "Stick",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "mushroom_stew",
+    "Stack-size": 1,
+    "name": "Mushroom Stew",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "string",
+    "Stack-size": 64,
+    "name": "String",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 7,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "feather",
+    "Stack-size": 64,
+    "name": "Feather",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "gunpowder",
+    "Stack-size": 64,
+    "name": "Gunpowder",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 95,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 125,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "wheat_seeds",
+    "Stack-size": 64,
+    "name": "Wheat Seeds",
+    "Butikker": [
+      {
+        "butikk": "Bakeriet",
+        "pris": 2,
+        "mengde": 64
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 5,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "wheat",
+    "Stack-size": 64,
+    "name": "Wheat",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "bread",
+    "Stack-size": 64,
+    "name": "Bread",
+    "Butikker": [
+      {
+        "butikk": "Bakeriet",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 5,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 25,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "diamond_helmet",
+    "Stack-size": 1,
+    "name": "Diamond Helmet",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_chestplate",
+    "Stack-size": 1,
+    "name": "Diamond Chestplate",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_leggings",
+    "Stack-size": 1,
+    "name": "Diamond Leggings",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_boots",
+    "Stack-size": 1,
+    "name": "Diamond Boots",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_helmet",
+    "Stack-size": 1,
+    "name": "Netherite Helmet",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 3000,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 3000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_chestplate",
+    "Stack-size": 1,
+    "name": "Netherite Chestplate",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 2900,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 3000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_leggings",
+    "Stack-size": 1,
+    "name": "Netherite Leggings",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 2900,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 3000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_boots",
+    "Stack-size": 1,
+    "name": "Netherite Boots",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 2200,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 2800,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 3000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "flint",
+    "Stack-size": 64,
+    "name": "Flint",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 3,
+        "mengde": 32
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 6,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "porkchop",
+    "Stack-size": 64,
+    "name": "Raw Porkchop",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 139,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cooked_porkchop",
+    "Stack-size": 64,
+    "name": "Cooked Porkchop",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 139,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "painting",
+    "Stack-size": 64,
+    "name": "Painting",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 17,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "golden_apple",
+    "Stack-size": 64,
+    "name": "Golden Apple",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spruce_sign",
+    "Stack-size": 16,
+    "name": "Spruce Sign",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "bucket",
+    "Stack-size": 16,
+    "name": "Bucket",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "water_bucket",
+    "Stack-size": 1,
+    "name": "Water Bucket",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "lava_bucket",
+    "Stack-size": 1,
+    "name": "Lava Bucket",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 8,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 48,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "powder_snow_bucket",
+    "Stack-size": 1,
+    "name": "Powder Snow Bucket",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 300,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "snowball",
+    "Stack-size": 16,
+    "name": "Snowball",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 4,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "leather",
+    "Stack-size": 64,
+    "name": "Leather",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 23,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "milk_bucket",
+    "Stack-size": 1,
+    "name": "Milk Bucket",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 30,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "axolotl_bucket",
+    "Stack-size": 1,
+    "name": "Bucket of Axolotl",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "brick",
+    "Stack-size": 64,
+    "name": "Brick",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 16
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 45,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "clay_ball",
+    "Stack-size": 64,
+    "name": "Clay Ball",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 30,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "paper",
+    "Stack-size": 64,
+    "name": "Paper",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 1,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "book",
+    "Stack-size": 64,
+    "name": "Book",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 3,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 12,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "slime_ball",
+    "Stack-size": 64,
+    "name": "Slimeball",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 40,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 100,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "egg",
+    "Stack-size": 16,
+    "name": "Egg",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "bundle",
+    "Stack-size": 1,
+    "name": "Bundle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "fishing_rod",
+    "Stack-size": 1,
+    "name": "Fishing Rod",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 900,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 1199,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "clock",
+    "Stack-size": 64,
+    "name": "Clock",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spyglass",
+    "Stack-size": 1,
+    "name": "Spyglass",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "glowstone_dust",
+    "Stack-size": 64,
+    "name": "Glowstone Dust",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 8
+      },
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 4
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 150,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cod",
+    "Stack-size": 64,
+    "name": "Raw Cod",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "salmon",
+    "Stack-size": 64,
+    "name": "Raw Salmon",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "tropical_fish",
+    "Stack-size": 64,
+    "name": "Tropical Fish",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "pufferfish",
+    "Stack-size": 64,
+    "name": "Pufferfish",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "cooked_cod",
+    "Stack-size": 64,
+    "name": "Cooked Cod",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 12,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ida",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "ink_sac",
+    "Stack-size": 64,
+    "name": "Ink Sac",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 25,
+        "mengde": 32
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "glow_ink_sac",
+    "Stack-size": 64,
+    "name": "Glow Ink Sac",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "Dome",
+        "pris": 40,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cocoa_beans",
+    "Stack-size": 64,
+    "name": "Cocoa Beans",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "white_dye",
+    "Stack-size": 64,
+    "name": "White Dye",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 0.5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "orange_dye",
+    "Stack-size": 64,
+    "name": "Orange Dye",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 8
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "magenta_dye",
+    "Stack-size": 64,
+    "name": "Magenta Dye",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "light_blue_dye",
+    "Stack-size": 64,
+    "name": "Light Blue Dye",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "yellow_dye",
+    "Stack-size": 64,
+    "name": "Yellow Dye",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 4,
+        "mengde": 8
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "lime_dye",
+    "Stack-size": 64,
+    "name": "Lime Dye",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "pink_dye",
+    "Stack-size": 64,
+    "name": "Pink Dye",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "gray_dye",
+    "Stack-size": 64,
+    "name": "Gray Dye",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "light_gray_dye",
+    "Stack-size": 64,
+    "name": "Light Gray Dye",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 4,
+        "mengde": 8
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cyan_dye",
+    "Stack-size": 64,
+    "name": "Cyan Dye",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "purple_dye",
+    "Stack-size": 64,
+    "name": "Purple Dye",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "blue_dye",
+    "Stack-size": 64,
+    "name": "Blue Dye",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "brown_dye",
+    "Stack-size": 64,
+    "name": "Brown Dye",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "green_dye",
+    "Stack-size": 64,
+    "name": "Green Dye",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 1,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 1.5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "red_dye",
+    "Stack-size": 64,
+    "name": "Red Dye",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 6,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "black_dye",
+    "Stack-size": 64,
+    "name": "Black Dye",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 9,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "bone_meal",
+    "Stack-size": 64,
+    "name": "Bone Meal",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 2,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 12,
+        "mengde": 64
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 20,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "bone",
+    "Stack-size": 64,
+    "name": "Bone",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 3,
+        "mengde": 64
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 5,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "sugar",
+    "Stack-size": 64,
+    "name": "Sugar",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 1,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 5,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "cake",
+    "Stack-size": 1,
+    "name": "Cake",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "Ida",
+        "pris": 20,
+        "mengde": 1
+      },
+      {
+        "butikk": "Bakeriet",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "yellow_bed",
+    "Stack-size": 1,
+    "name": "Yellow Bed",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "cookie",
+    "Stack-size": 64,
+    "name": "Cookie",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "Ida",
+        "pris": 8,
+        "mengde": 5
+      }
+    ]
+  },
+  {
+    "key": "crafter",
+    "Stack-size": 64,
+    "name": "Crafter",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 75,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "shears",
+    "Stack-size": 1,
+    "name": "Shears",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 7,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "melon_slice",
+    "Stack-size": 64,
+    "name": "Melon Slice",
+    "Butikker": [
+      {
+        "butikk": "Butikk",
+        "pris": 2,
+        "mengde": 64
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "pumpkin_seeds",
+    "Stack-size": 64,
+    "name": "Pumpkin Seeds",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "melon_seeds",
+    "Stack-size": 64,
+    "name": "Melon Seeds",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "Billigshappa",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 6,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "cooked_beef",
+    "Stack-size": 64,
+    "name": "Steak",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 80,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "chicken",
+    "Stack-size": 64,
+    "name": "Raw Chicken",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 139,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cooked_chicken",
+    "Stack-size": 64,
+    "name": "Cooked Chicken",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 80,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "rotten_flesh",
+    "Stack-size": 64,
+    "name": "Rotten Flesh",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 32
+      },
+      {
+        "butikk": "0o",
+        "pris": 5,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 8,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "ender_pearl",
+    "Stack-size": 16,
+    "name": "Ender Pearl",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 80,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "blaze_rod",
+    "Stack-size": 64,
+    "name": "Blaze Rod",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 1,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 64
+      },
+      {
+        "butikk": "0o",
+        "pris": 10,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "ghast_tear",
+    "Stack-size": 64,
+    "name": "Ghast Tear",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 140,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 150,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 160,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "nether_wart",
+    "Stack-size": 64,
+    "name": "Nether Wart",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 3,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "glass_bottle",
+    "Stack-size": 64,
+    "name": "Glass Bottle",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 60,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 2,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spider_eye",
+    "Stack-size": 64,
+    "name": "Spider Eye",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 4,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "blaze_powder",
+    "Stack-size": 64,
+    "name": "Blaze Powder",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 5,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "magma_cream",
+    "Stack-size": 64,
+    "name": "Magma Cream",
+    "Butikker": [
+      {
+        "butikk": "Dome",
+        "pris": 1,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "brewing_stand",
+    "Stack-size": 64,
+    "name": "Brewing Stand",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 40,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "cauldron",
+    "Stack-size": 64,
+    "name": "Cauldron",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 60,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "ender_eye",
+    "Stack-size": 64,
+    "name": "Eye of Ender",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 4
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 25,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "armadillo_spawn_egg",
+    "Stack-size": 64,
+    "name": "Armadillo Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 299,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "allay_spawn_egg",
+    "Stack-size": 64,
+    "name": "Allay Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Bakeriet",
+        "pris": 750,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "bee_spawn_egg",
+    "Stack-size": 64,
+    "name": "Bee Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 70,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 225,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "camel_spawn_egg",
+    "Stack-size": 64,
+    "name": "Camel Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 600,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 799,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "chicken_spawn_egg",
+    "Stack-size": 64,
+    "name": "Chicken Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 199,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "cow_spawn_egg",
+    "Stack-size": 64,
+    "name": "Cow Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 249,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 400,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "fox_spawn_egg",
+    "Stack-size": 64,
+    "name": "Fox Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 150,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "ghast_spawn_egg",
+    "Stack-size": 64,
+    "name": "Mob fanger",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "SkogHolm",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 200,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "glow_squid_spawn_egg",
+    "Stack-size": 64,
+    "name": "Glow Squid Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 1199,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "goat_spawn_egg",
+    "Stack-size": 64,
+    "name": "Goat Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "horse_spawn_egg",
+    "Stack-size": 64,
+    "name": "Horse Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 600,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 799,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "llama_spawn_egg",
+    "Stack-size": 64,
+    "name": "Llama Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 600,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "mooshroom_spawn_egg",
+    "Stack-size": 64,
+    "name": "Mooshroom Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 299,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "panda_spawn_egg",
+    "Stack-size": 64,
+    "name": "Panda Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 300,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "parrot_spawn_egg",
+    "Stack-size": 64,
+    "name": "Parrot Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 50,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 150,
+        "mengde": 1
+      },
+      {
+        "butikk": "Bakeriet",
+        "pris": 550,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "pig_spawn_egg",
+    "Stack-size": 64,
+    "name": "Pig Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 249,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 300,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sheep_spawn_egg",
+    "Stack-size": 64,
+    "name": "Sheep Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Bakeriet",
+        "pris": 150,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 249,
+        "mengde": 1
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 300,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "trader_llama_spawn_egg",
+    "Stack-size": 64,
+    "name": "Trader Llama Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 1499,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "villager_spawn_egg",
+    "Stack-size": 64,
+    "name": "Villager Spawn Egg",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 200,
+        "mengde": 1
+      },
+      {
+        "butikk": "0o",
+        "pris": 200,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 549,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "experience_bottle",
+    "Stack-size": 64,
+    "name": "Bottle o' Enchanting",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 100,
+        "mengde": 16
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 120,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 8,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "wind_charge",
+    "Stack-size": 64,
+    "name": "Wind Charge",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 200,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 50,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 25,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "writable_book",
+    "Stack-size": 1,
+    "name": "Book and Quill",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 5,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 35,
+        "mengde": 1
+      },
+      {
+        "butikk": "SkogHolm",
+        "pris": 40,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "breeze_rod",
+    "Stack-size": 64,
+    "name": "Breeze Rod",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 150,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "item_frame",
+    "Stack-size": 64,
+    "name": "Item Frame",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 8
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 3,
+        "mengde": 1
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "glow_item_frame",
+    "Stack-size": 64,
+    "name": "Glow Item Frame",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 60,
+        "mengde": 8
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "flower_pot",
+    "Stack-size": 64,
+    "name": "Flower Pot",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "carrot",
+    "Stack-size": 64,
+    "name": "Carrot",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "potato",
+    "Stack-size": 64,
+    "name": "Potato",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "baked_potato",
+    "Stack-size": 64,
+    "name": "Baked Potato",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Ida",
+        "pris": 10,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "map",
+    "Stack-size": 64,
+    "name": "Empty Map",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 15,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "golden_carrot",
+    "Stack-size": 64,
+    "name": "Golden Carrot",
+    "Butikker": [
+      {
+        "butikk": "Axolotl",
+        "pris": 24,
+        "mengde": 16
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 32,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "player_head",
+    "Stack-size": 64,
+    "name": "Player Head",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 90,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "dragon_head",
+    "Stack-size": 64,
+    "name": "Dragon Head",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 1500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "piglin_head",
+    "Stack-size": 64,
+    "name": "Piglin Head",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 14000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "pumpkin_pie",
+    "Stack-size": 64,
+    "name": "Pumpkin Pie",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "firework_rocket",
+    "Stack-size": 64,
+    "name": "Firework Rocket",
+    "Butikker": [
+      {
+        "butikk": "SkogHolm",
+        "pris": 159,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 200,
+        "mengde": 64
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 100,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "nether_brick",
+    "Stack-size": 64,
+    "name": "Nether Brick",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 32,
+        "mengde": 64
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 40,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "prismarine_shard",
+    "Stack-size": 64,
+    "name": "Prismarine Shard",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 25,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "prismarine_crystals",
+    "Stack-size": 64,
+    "name": "Prismarine Crystals",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 64
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 8
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 60,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "cooked_rabbit",
+    "Stack-size": 64,
+    "name": "Cooked Rabbit",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "rabbit_foot",
+    "Stack-size": 64,
+    "name": "Rabbit's Foot",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "rabbit_hide",
+    "Stack-size": 64,
+    "name": "Rabbit Hide",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 8,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "armor_stand",
+    "Stack-size": 16,
+    "name": "Armor Stand",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 9,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "iron_horse_armor",
+    "Stack-size": 1,
+    "name": "Iron Horse Armor",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "golden_horse_armor",
+    "Stack-size": 1,
+    "name": "Golden Horse Armor",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "diamond_horse_armor",
+    "Stack-size": 1,
+    "name": "Diamond Horse Armor",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 150,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 390,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "lead",
+    "Stack-size": 64,
+    "name": "Lead",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 2
+      },
+      {
+        "butikk": "B",
+        "pris": 40,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "name_tag",
+    "Stack-size": 64,
+    "name": "Name Tag",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 40,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 55,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 75,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "cooked_mutton",
+    "Stack-size": 64,
+    "name": "Cooked Mutton",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "chorus_fruit",
+    "Stack-size": 64,
+    "name": "Chorus Fruit",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 8
+      },
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "popped_chorus_fruit",
+    "Stack-size": 64,
+    "name": "Popped Chorus Fruit",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 25,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 35,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "torchflower_seeds",
+    "Stack-size": 64,
+    "name": "Torchflower Seeds",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 125,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "pitcher_pod",
+    "Stack-size": 64,
+    "name": "Pitcher Pod",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 24,
+        "mengde": 8
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 125,
+        "mengde": 32
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "beetroot",
+    "Stack-size": 64,
+    "name": "Beetroot",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 64
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 32,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "beetroot_seeds",
+    "Stack-size": 64,
+    "name": "Beetroot Seeds",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 16,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "dragon_breath",
+    "Stack-size": 64,
+    "name": "Dragon's Breath",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 20,
+        "mengde": 1
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 64,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spectral_arrow",
+    "Stack-size": 64,
+    "name": "Spectral Arrow",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 10,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "totem_of_undying",
+    "Stack-size": 1,
+    "name": "Totem of Undying",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 1400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 1500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "shulker_shell",
+    "Stack-size": 64,
+    "name": "Shulker Shell",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 750,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 800,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_13",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 70,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 250,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_cat",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 70,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 250,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_blocks",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_chirp",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_creator",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 2600,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_creator_music_box",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 2600,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_far",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_mall",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_mellohi",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 750,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_stal",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_strad",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_ward",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_11",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_wait",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 500,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_otherside",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 300,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 2600,
+        "mengde": 1
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 4999,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_relic",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_5",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 3500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "music_disc_pigstep",
+    "Stack-size": 1,
+    "name": "Music Disc",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 2600,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 3000,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 20000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "trident",
+    "Stack-size": 1,
+    "name": "Trident",
+    "Butikker": [
+      {
+        "butikk": "Quantum",
+        "pris": 200000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "nautilus_shell",
+    "Stack-size": 64,
+    "name": "Nautilus Shell",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 1200,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "heart_of_the_sea",
+    "Stack-size": 64,
+    "name": "Heart of the Sea",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "crossbow",
+    "Stack-size": 1,
+    "name": "Crossbow",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 60,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "flower_banner_pattern",
+    "Stack-size": 1,
+    "name": "Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 200,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "mojang_banner_pattern",
+    "Stack-size": 1,
+    "name": "Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 2500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "globe_banner_pattern",
+    "Stack-size": 1,
+    "name": "Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 1400,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "piglin_banner_pattern",
+    "Stack-size": 1,
+    "name": "Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 1200,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 1800,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "flow_banner_pattern",
+    "Stack-size": 1,
+    "name": "Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 3400,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "guster_banner_pattern",
+    "Stack-size": 1,
+    "name": "Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 4900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "field_masoned_banner_pattern",
+    "Stack-size": 1,
+    "name": "Field Masoned Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 300,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "bordure_indented_banner_pattern",
+    "Stack-size": 1,
+    "name": "Bordure Indented Banner Pattern",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 200,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "composter",
+    "Stack-size": 64,
+    "name": "Composter",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 3,
+        "mengde": 2
+      }
+    ]
+  },
+  {
+    "key": "barrel",
+    "Stack-size": 64,
+    "name": "Barrel",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Target",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 25,
+        "mengde": 10
+      }
+    ]
+  },
+  {
+    "key": "smoker",
+    "Stack-size": 64,
+    "name": "Smoker",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 5,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "blast_furnace",
+    "Stack-size": 64,
+    "name": "Blast Furnace",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "fletching_table",
+    "Stack-size": 64,
+    "name": "Fletching Table",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "grindstone",
+    "Stack-size": 64,
+    "name": "Grindstone",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 30,
+        "mengde": 1
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 30,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "smithing_table",
+    "Stack-size": 64,
+    "name": "Smithing Table",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "stonecutter",
+    "Stack-size": 64,
+    "name": "Stonecutter",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 15,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "bell",
+    "Stack-size": 64,
+    "name": "Bell",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 5,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 900,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "lantern",
+    "Stack-size": 64,
+    "name": "Lantern",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 8,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 30,
+        "mengde": 8
+      },
+      {
+        "butikk": "Ida",
+        "pris": 80,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "soul_lantern",
+    "Stack-size": 64,
+    "name": "Soul Lantern",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 16,
+        "mengde": 16
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 7,
+        "mengde": 1
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sweet_berries",
+    "Stack-size": 64,
+    "name": "Sweet Berries",
+    "Butikker": [
+      {
+        "butikk": "TordenShop",
+        "pris": 45,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "glow_berries",
+    "Stack-size": 64,
+    "name": "Glow Berries",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 30,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "campfire",
+    "Stack-size": 64,
+    "name": "Campfire",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 9,
+        "mengde": 4
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 25,
+        "mengde": 4
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "soul_campfire",
+    "Stack-size": 64,
+    "name": "Soul Campfire",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 20,
+        "mengde": 4
+      },
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 25,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "shroomlight",
+    "Stack-size": 64,
+    "name": "Shroomlight",
+    "Butikker": [
+      {
+        "butikk": "Kopane_Shop",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 65,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 45,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "honeycomb",
+    "Stack-size": 64,
+    "name": "Honeycomb",
+    "Butikker": [
+      {
+        "butikk": "Butikk",
+        "pris": 30,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 20,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 30,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "bee_nest",
+    "Stack-size": 64,
+    "name": "Bee Nest",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 1000,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "beehive",
+    "Stack-size": 64,
+    "name": "Beehive",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 18,
+        "mengde": 1
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 60,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "honey_bottle",
+    "Stack-size": 16,
+    "name": "Honey Bottle",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 16
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 30,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 10,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "honeycomb_block",
+    "Stack-size": 64,
+    "name": "Honeycomb Block",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 32
+      }
+    ]
+  },
+  {
+    "key": "crying_obsidian",
+    "Stack-size": 64,
+    "name": "Crying Obsidian",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 399,
+        "mengde": 16
+      },
+      {
+        "butikk": "B",
+        "pris": 399,
+        "mengde": 16
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 100,
+        "mengde": 4
+      }
+    ]
+  },
+  {
+    "key": "blackstone",
+    "Stack-size": 64,
+    "name": "Blackstone",
+    "Butikker": [
+      {
+        "butikk": "Target",
+        "pris": 5,
+        "mengde": 32
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 15,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 20,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "gilded_blackstone",
+    "Stack-size": 64,
+    "name": "Gilded Blackstone",
+    "Butikker": [
+      {
+        "butikk": "LogiCo",
+        "pris": 59,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 100,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "polished_blackstone",
+    "Stack-size": 64,
+    "name": "Polished Blackstone",
+    "Butikker": [
+      {
+        "butikk": "0o",
+        "pris": 170,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "polished_blackstone_bricks",
+    "Stack-size": 64,
+    "name": "Polished Blackstone Bricks",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 150,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "cracked_polished_blackstone_bricks",
+    "Stack-size": 64,
+    "name": "Cracked Polished Blackstone Bricks",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 150,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "candle",
+    "Stack-size": 64,
+    "name": "Candle",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 10,
+        "mengde": 8
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "white_candle",
+    "Stack-size": 64,
+    "name": "White Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "orange_candle",
+    "Stack-size": 64,
+    "name": "Orange Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "magenta_candle",
+    "Stack-size": 64,
+    "name": "Magenta Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "light_blue_candle",
+    "Stack-size": 64,
+    "name": "Light Blue Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "yellow_candle",
+    "Stack-size": 64,
+    "name": "Yellow Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "pink_candle",
+    "Stack-size": 64,
+    "name": "Pink Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "cyan_candle",
+    "Stack-size": 64,
+    "name": "Cyan Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "blue_candle",
+    "Stack-size": 64,
+    "name": "Blue Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "green_candle",
+    "Stack-size": 64,
+    "name": "Green Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "red_candle",
+    "Stack-size": 64,
+    "name": "Red Candle",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "amethyst_cluster",
+    "Stack-size": 64,
+    "name": "Amethyst Cluster",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 100,
+        "mengde": 8
+      }
+    ]
+  },
+  {
+    "key": "pointed_dripstone",
+    "Stack-size": 64,
+    "name": "Pointed Dripstone",
+    "Butikker": [
+      {
+        "butikk": "Lumia",
+        "pris": 80,
+        "mengde": 16
+      },
+      {
+        "butikk": "Regnbuen",
+        "pris": 100,
+        "mengde": 8
+      },
+      {
+        "butikk": "B",
+        "pris": 20,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "ochre_froglight",
+    "Stack-size": 64,
+    "name": "Ochre Froglight",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "verdant_froglight",
+    "Stack-size": 64,
+    "name": "Verdant Froglight",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikk",
+        "pris": 20,
+        "mengde": 64
+      }
+    ]
+  },
+  {
+    "key": "pearlescent_froglight",
+    "Stack-size": 64,
+    "name": "Pearlescent Froglight",
+    "Butikker": [
+      {
+        "butikk": "Ebz",
+        "pris": 2,
+        "mengde": 16
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 10,
+        "mengde": 32
+      },
+      {
+        "butikk": "Juxielle",
+        "pris": 5,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "echo_shard",
+    "Stack-size": 64,
+    "name": "Echo Shard",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 340,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "brush",
+    "Stack-size": 1,
+    "name": "Brush",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 20,
+        "mengde": 1
+      },
+      {
+        "butikk": "Lumia",
+        "pris": 399,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "netherite_upgrade_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Nether",
+        "pris": 399,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "Ebz",
+        "pris": 500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "sentry_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "dune_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "coast_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Thelittleshop",
+        "pris": 300,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "wild_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "ward_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "eye_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 2500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "vex_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 2500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "tide_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 2500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "snout_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Thelittleshop",
+        "pris": 300,
+        "mengde": 1
+      },
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "rib_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 2500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "spire_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "wayfinder_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "shaper_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "silence_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 2500,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "raiser_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "host_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "flow_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "bolt_armor_trim_smithing_template",
+    "Stack-size": 64,
+    "name": "Smithing Template",
+    "Butikker": [
+      {
+        "butikk": "Butikken",
+        "pris": 400,
+        "mengde": 1
+      },
+      {
+        "butikk": "B",
+        "pris": 595,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "blade_pottery_sherd",
+    "Stack-size": 64,
+    "name": "Blade Pottery Sherd",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "explorer_pottery_sherd",
+    "Stack-size": 64,
+    "name": "Explorer Pottery Sherd",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "mourner_pottery_sherd",
+    "Stack-size": 64,
+    "name": "Mourner Pottery Sherd",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 250,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "snort_pottery_sherd",
+    "Stack-size": 64,
+    "name": "Snort Pottery Sherd",
+    "Butikker": [
+      {
+        "butikk": "Regnbuen",
+        "pris": 400,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "firework_star",
+    "Stack-size": null,
+    "name": "Orange",
+    "Butikker": [
+      {
+        "butikk": "Juxielle",
+        "pris": 15,
+        "mengde": 8
+      },
+      {
+        "butikk": "TordenShop",
+        "pris": 50,
+        "mengde": 16
+      }
+    ]
+  },
+  {
+    "key": "turtle_scute",
+    "Stack-size": null,
+    "name": "Scute",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 115,
+        "mengde": 5
+      },
+      {
+        "butikk": "LogiCo",
+        "pris": 85,
+        "mengde": 3
+      },
+      {
+        "butikk": "Quantum",
+        "pris": 100,
+        "mengde": 1
+      }
+    ]
+  },
+  {
+    "key": "firework_star",
+    "Stack-size": null,
+    "name": "Light Blue",
+    "Butikker": [
+      {
+        "butikk": "Pingu",
+        "pris": 16,
+        "mengde": 8
+      }
+    ]
+  }
+]
