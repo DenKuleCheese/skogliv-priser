@@ -1,5 +1,5 @@
-name: Prisfeil
-description: Prisen på et produkt er feil
+name: Prisfeil / Nytt produkt
+description: Prisen på et produkt er feil eller et nytt produkt trenger å legges til
 title: "[Prisfeil]: "
 labels:
   - prisfeil
