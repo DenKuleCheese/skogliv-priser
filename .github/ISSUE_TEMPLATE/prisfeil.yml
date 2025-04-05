@@ -1,6 +1,6 @@
 name: Prisfeil
 description: Prisen på et produkt er feil
-title: Prisfeil
+title: "[Prisfeil]: "
 labels:
   - prisfeil
   - produkt

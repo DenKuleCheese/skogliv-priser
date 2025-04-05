@@ -1,0 +1,21 @@
+name: Bug report
+description: Det er en feil med siden
+title: "[Bug]: "
+labels:
+  - bug
+assignees: Cheese7856
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description of the problem
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Minimal Reproduction
+      description: provide steps to reproduce the problem
+  - type: textarea
+    attributes:
+      label: Exception or Error
+      description: provide error logs

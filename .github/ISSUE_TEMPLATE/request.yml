@@ -1,0 +1,27 @@
+name: Feature Request
+description: Jeg ønsker at en ekstra funskjon skal legges til i siden
+title: "[Feature Request]: "
+labels:
+  - enhancement
+assignees: Cheese7856
+body:
+  - type: textarea
+    attributes:
+      label: Beskrivelse
+      description: >-
+        Lag en beskrivelse på hvorfor dette er en bra ting å ha og at det er
+        vært tiden min :)
+      placeholder: >-
+        Å ha en måte å se 4. plass på hadde vært en bra funksjon for om alle på
+        top 3 er tom, så kan jeg se den billigeste som er igjen.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Beskriv hvordan du vil ha denne funskjonen
+      description: >-
+        Hvis du har tenkt på hvordan denne funksjonen kan bli lagt til, så skriv
+        den her!
+      placeholder: >-
+        Å legge til en ekstra kolonne etter 3. plass der jeg kan se alle som er
+        på 4. plass. Er ikke så mye vanskeligere enn det!

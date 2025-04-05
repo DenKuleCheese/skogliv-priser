@@ -1,0 +1,27 @@
+name: Butikkfeil
+description: Noe er galt med en butikk eller flere produkter er feil
+title: "[Butikkfeil]: "
+labels:
+  - butikk
+assignees: Cheese7856
+body:
+  - type: dropdown
+    attributes:
+      label: Hva er galt med butikken
+      options:
+        - Flere produkter er feil eller mangler
+        - Butikknavnet er feil
+        - Butikken finnes ikke lenger
+        - Butikken har sluttet å fylle på
+        - Andre
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Beskriv problemet
+      description: Skriv en kort test på hva som er galt
+      placeholder: >-
+        Flere produkter mangler og de fleste andre er feil. Produktene i denne
+        butikken må legges til på nytt.
+    validations:
+      required: true
