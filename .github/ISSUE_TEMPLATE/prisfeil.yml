@@ -1,0 +1,29 @@
+name: Prisfeil
+description: Prisen på et produkt er feil
+title: Prisfeil
+labels:
+  - prisfeil
+  - produkt
+assignees: Cheese7856
+body:
+  - type: input
+    attributes:
+      label: Butikknavn
+      description: Navnet på warpen
+      placeholder: Butikken
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Produktnavn
+      description: Navnet på produktet (på englesk eller på norsk)
+      placeholder: White Wool
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Opdatert pris
+      description: Den opdaterte prisden i format [pris] / [mengde]
+      placeholder: 15 / 64
+    validations:
+      required: true
