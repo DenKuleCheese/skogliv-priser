@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Roboto, sans-serif;
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
@@ -80,4 +80,35 @@ h3 {
   margin-top: 10px;
   font-size: min(40px, 8vw);
   opacity: 40%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+/* Legg til denne media queryen nederst i CSS-filen */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Plasser elementer vertikalt */
+    gap: 20px; /* Legg til luft mellom seksjonene */
+  }
+
+  .section {
+    width: 100%; /* Fyll hele bredden på mobil */
+  }
+
+  /* Valgfritt: Juster søkefeltet for mobil */
+  #sokefelt {
+    width: 100%;
+  }
 }

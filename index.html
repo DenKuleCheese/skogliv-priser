@@ -4,21 +4,37 @@
     <meta charset="utf-8" />
     <title>Produktpriser</title>
     <link rel="stylesheet" href="src/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
     <h1>Skogliv pris-katalog</h1>
     <h3>Dette er en tidlig version! Dette er ikke slik den skal være!</h3>
-    <p class="undertekst">Følgene produkter er ikke i databasen:</p>
-    <ul>
-      <li>Enchantment bøker</li>
-      <li>Armor og utstyr som ikke er maxet ut</li>
-      <li>Potions</li>
-      <li>Bee nest som ikke har bier</li>
-      <li>Andre ting som har NBT data</li>
-    </ul>
 
-    <div class="sok-seksjon">
-      <input type="text" id="sokefelt" placeholder="Søk etter produkt..." />
+    <div class="container">
+      <div>
+        <p class="undertekst">Følgene produkter er ikke i databasen:</p>
+        <ul>
+          <li>Enchantment bøker</li>
+          <li>Armor og utstyr som ikke er maxet ut</li>
+          <li>Potions</li>
+          <li>Bee nest som ikke har bier</li>
+          <li>Andre ting som har NBT data</li>
+        </ul>
+
+        <div class="sok-seksjon">
+          <input type="text" id="sokefelt" placeholder="Søk etter produkt..." />
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Det er en ting jeg må si ifra om</h2>
+        <p>
+          Om du har lyst at jeg skal legge til din butikk eller om det er et problem med et produkt eller en butikk, eller andre ting, kan du si ifra på
+          <a href="https://github.com/Cheese7856/skogliv-priser/issues">github-siden her.</a>
+          Om du kan / vil ikke ha en github-konto, kan du sende meg en melding på <b>discord (_Cheese7856)</b> eller en epost til
+          <a href="mailto:elander.olsen@gmail.com">elander.olsen@gmail.com</a>
+        </p>
+      </div>
     </div>
 
     <div id="loading">Laster data...</div>
