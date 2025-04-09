@@ -2,10 +2,17 @@ name: Prisfeil / Nytt produkt
 description: Prisen på et produkt er feil eller et nytt produkt trenger å legges til
 title: "[Prisfeil]: "
 labels:
-  - prisfeil
   - produkt
 assignees: Cheese7856
 body:
+  - type: dropdown
+    attributes:
+      label: Velg type
+      options:
+        - Nytt produkt
+        - Prisfeil
+    validations:
+      required: true
   - type: input
     attributes:
       label: Butikknavn

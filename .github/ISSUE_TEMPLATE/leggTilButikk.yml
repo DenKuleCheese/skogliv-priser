@@ -1,0 +1,32 @@
+name: Legg til butikk
+description: Jeg vil legge til min egen / en annens butikk
+title: "[Ny butikk]: "
+labels:
+  - butikk
+assignees: Cheese7856
+body:
+  - type: input
+    attributes:
+      label: Butikk-navnet
+      description: Hva er butikknavnet?
+      placeholder: Regnbuen
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Spørsmål
+      options:
+        - label: Butikken selger jevnlig
+          required: true
+        - label: Butikken har relative lave priser
+          required: true
+        - label: Butikkeieren er tiljengelig når et produkt går tom
+          required: true
+  - type: dropdown
+    attributes:
+      label: Eier du butikken?
+      options:
+        - "Ja: Jeg eier butikken"
+        - "Nei: Jeg eier ikke butikken"
+    validations:
+      required: true
