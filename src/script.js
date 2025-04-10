@@ -96,4 +96,9 @@ function filtrerProdukter() {
 document.addEventListener("DOMContentLoaded", () => {
   hentData();
   document.getElementById("sokefelt").addEventListener("input", filtrerProdukter);
+  document.getElementById("oppdaterPriser").addEventListener("click", () => {
+    document.getElementById("loading").style.display = "block";
+    document.getElementById("prisTabel").style.display = "none";
+    hentData();
+  });
 });

@@ -112,3 +112,19 @@ h3 {
     width: 100%;
   }
 }
+
+button {
+  padding: 15px 20px;
+  border: 2px solid #3498db;
+  outline: none;
+  background-color: #f8f9fa;
+  color: #151515;
+  border-radius: 7px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease-out;
+}
+
+button:hover {
+  transform: translateY(-3px);
+}
