@@ -4,8 +4,9 @@ let iconCache = {};
 
 function hentData() {
   const urlParams = new URLSearchParams(window.location.search);
+  const timestamp = new Date().getTime(); // Unik tidsstempel for å unngå cache
 
-  fetch(`src/produkter.json`)
+  fetch(`src/produkter.json?nocache=${timestamp}`)
     .then((response) => response.json())
     .then((data) => {
       alleProdukter = data;
