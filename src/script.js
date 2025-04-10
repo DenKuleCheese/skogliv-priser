@@ -52,7 +52,15 @@ function visData(data) {
       wrapper.appendChild(ikon);
     }
 
-    wrapper.appendChild(document.createTextNode(produkt.name));
+    // Legg til et <a>-element for produktnavnet
+    const navnLink = document.createElement("a");
+    navnLink.href = `https://minecraft.wiki/w/${produkt.key}`;
+    navnLink.textContent = produkt.name;
+    navnLink.target = "_blank"; // Åpner lenken i en ny fane
+    navnLink.style.textDecoration = "none"; // Valgfritt: Fjern understrek
+    //navnLink.style.color = "inherit"; // Valgfritt: Behold tekstfargen
+
+    wrapper.appendChild(navnLink);
     navnCelle.appendChild(wrapper);
     rad.appendChild(navnCelle);
 
