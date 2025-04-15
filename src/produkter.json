@@ -4570,23 +4570,23 @@
   { "key": "snort_pottery_sherd", "Stack-size": 64, "name": "Snort Pottery Sherd", "Butikker": [{ "butikk": "Regnbuen", "pris": 400, "mengde": 1 }] },
   { "key": "copper_bulb", "Stack-size": 64, "name": "Copper Bulb", "Butikker": [{ "butikk": "Marked", "pris": 100, "mengde": 16 }] },
   {
-    "key": "firework_star.orange",
+    "key": "firework_star",
     "Stack-size": null,
-    "name": "Orange",
+    "name": "Orange Firework Star",
     "Butikker": [
       { "butikk": "Juxielle", "pris": 15, "mengde": 8 },
       { "butikk": "TordenShop", "pris": 50, "mengde": 16 }
     ]
   },
   {
-    "key": "scute",
+    "key": "turtle_scute",
     "Stack-size": null,
-    "name": "Scute",
+    "name": "Turtle Scute",
     "Butikker": [
       { "butikk": "Pingu", "pris": 115, "mengde": 5 },
       { "butikk": "LogiCo", "pris": 85, "mengde": 3 },
       { "butikk": "Quantum", "pris": 100, "mengde": 1 }
     ]
   },
-  { "key": "firework_star.light_blue", "Stack-size": null, "name": "Light Blue", "Butikker": [{ "butikk": "Pingu", "pris": 16, "mengde": 8 }] }
+  { "key": "firework_star", "Stack-size": null, "name": "Light Blue Firework Star", "Butikker": [{ "butikk": "Pingu", "pris": 16, "mengde": 8 }] }
 ]
