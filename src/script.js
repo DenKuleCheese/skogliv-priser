@@ -78,7 +78,7 @@ function visData(data) {
           prisHTML += `
             <div class="pris-total">${totalPris} kr</div>
             <div class="pris-per">${butikk.pris.toFixed(2)} per ${butikk.mengde}</div>
-            <img src="src/copy.svg" class="copy" onclick="copy('${produkt.name}: /warp ${butikk.butikk} - ${butikk.pris.toFixed(2)} kr per ${butikk.mengde}')" />`;
+            <img src="images/copy.svg" class="copy" onclick="copy('${produkt.name}: /warp ${butikk.butikk} - ${butikk.pris.toFixed(2)} kr per ${butikk.mengde}')" />`;
         } else {
           prisHTML += `
             <div class="pris-per enkelt">${butikk.pris.toFixed(2)} per ${butikk.mengde}</div>`;

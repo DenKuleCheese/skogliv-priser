@@ -83,8 +83,8 @@
     "name": "Cobbled Deepslate",
     "Butikker": [
       { "butikk": "DSS", "pris": 2, "mengde": 64 },
-      { "butikk": "Marked", "pris": 15, "mengde": 64 },
-      { "butikk": "Thayserix", "pris": 14, "mengde": 32 }
+      { "butikk": "Leoshop", "pris": 1, "mengde": 16 },
+      { "butikk": "Marked", "pris": 15, "mengde": 64 }
     ]
   },
   {
@@ -528,7 +528,7 @@
     "Butikker": [
       { "butikk": "Regnbuen", "pris": 5, "mengde": 64 },
       { "butikk": "Target", "pris": 6, "mengde": 32 },
-      { "butikk": "Ebz", "pris": 15, "mengde": 64 }
+      { "butikk": "Tbshop", "pris": 3, "mengde": 16 }
     ]
   },
   {
@@ -2425,7 +2425,7 @@
     "Butikker": [
       { "butikk": "0o", "pris": 10, "mengde": 32 },
       { "butikk": "Bukalu", "pris": 20, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 27, "mengde": 64 }
+      { "butikk": "Tbshop", "pris": 6, "mengde": 16 }
     ]
   },
   {
@@ -2824,9 +2824,9 @@
     "Stack-size": 64,
     "name": "Copper Ingot",
     "Butikker": [
+      { "butikk": "Tbshop", "pris": 12, "mengde": 32 },
       { "butikk": "Butikken", "pris": 40, "mengde": 64 },
-      { "butikk": "SkogHolm", "pris": 27, "mengde": 32 },
-      { "butikk": "Billigshappa", "pris": 15, "mengde": 16 }
+      { "butikk": "SkogHolm", "pris": 27, "mengde": 32 }
     ]
   },
   {
@@ -2845,8 +2845,8 @@
     "name": "Netherite Ingot",
     "Butikker": [
       { "butikk": "Kopane_Shop", "pris": 750, "mengde": 1 },
-      { "butikk": "Bukalu", "pris": 1250, "mengde": 1 },
-      { "butikk": "Leoshop", "pris": 1250, "mengde": 1 }
+      { "butikk": "Tbshop", "pris": 1249, "mengde": 1 },
+      { "butikk": "Bukalu", "pris": 1250, "mengde": 1 }
     ]
   },
   { "key": "diamond_sword", "Stack-size": 1, "name": "Diamond Sword", "Butikker": [{ "butikk": "B", "pris": 1299, "mengde": 1 }] },
@@ -2922,7 +2922,7 @@
     "Butikker": [
       { "butikk": "B", "pris": 90, "mengde": 16 },
       { "butikk": "Butikken", "pris": 95, "mengde": 16 },
-      { "butikk": "Regnbuen", "pris": 125, "mengde": 16 }
+      { "butikk": "Tbshop", "pris": 120, "mengde": 16 }
     ]
   },
   {
@@ -2940,9 +2940,9 @@
     "Stack-size": 64,
     "name": "Wheat",
     "Butikker": [
+      { "butikk": "Tbshop", "pris": 2, "mengde": 16 },
       { "butikk": "Thayserix", "pris": 10, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 20, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 20, "mengde": 64 }
+      { "butikk": "Butikken", "pris": 20, "mengde": 64 }
     ]
   },
   {
@@ -3015,6 +3015,7 @@
     "Stack-size": 64,
     "name": "Cooked Porkchop",
     "Butikker": [
+      { "butikk": "Tbshop", "pris": 4, "mengde": 4 },
       { "butikk": "Regnbuen", "pris": 50, "mengde": 16 },
       { "butikk": "B", "pris": 139, "mengde": 16 }
     ]
@@ -3481,9 +3482,9 @@
     "Stack-size": 64,
     "name": "Steak",
     "Butikker": [
+      { "butikk": "Tbshop", "pris": 5, "mengde": 4 },
       { "butikk": "Regnbuen", "pris": 50, "mengde": 16 },
-      { "butikk": "Pingu", "pris": 80, "mengde": 16 },
-      { "butikk": "B", "pris": 20, "mengde": 1 }
+      { "butikk": "Pingu", "pris": 80, "mengde": 16 }
     ]
   },
   { "key": "chicken", "Stack-size": 64, "name": "Raw Chicken", "Butikker": [{ "butikk": "B", "pris": 139, "mengde": 16 }] },
@@ -3543,8 +3544,8 @@
     "name": "Nether Wart",
     "Butikker": [
       { "butikk": "LogiCo", "pris": 3, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 30, "mengde": 64 }
+      { "butikk": "Tbshop", "pris": 2, "mengde": 16 },
+      { "butikk": "Butikken", "pris": 30, "mengde": 64 }
     ]
   },
   {
@@ -3838,8 +3839,8 @@
     "name": "Firework Rocket",
     "Butikker": [
       { "butikk": "SkogHolm", "pris": 159, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 200, "mengde": 64 },
-      { "butikk": "Butikk", "pris": 100, "mengde": 32 }
+      { "butikk": "Tbshop", "pris": 159, "mengde": 64 },
+      { "butikk": "Butikken", "pris": 200, "mengde": 64 }
     ]
   },
   {
@@ -3916,7 +3917,15 @@
       { "butikk": "LogiCo", "pris": 55, "mengde": 1 }
     ]
   },
-  { "key": "cooked_mutton", "Stack-size": 64, "name": "Cooked Mutton", "Butikker": [{ "butikk": "Regnbuen", "pris": 50, "mengde": 16 }] },
+  {
+    "key": "cooked_mutton",
+    "Stack-size": 64,
+    "name": "Cooked Mutton",
+    "Butikker": [
+      { "butikk": "Tbshop", "pris": 4, "mengde": 4 },
+      { "butikk": "Regnbuen", "pris": 50, "mengde": 16 }
+    ]
+  },
   {
     "key": "chorus_fruit",
     "Stack-size": 64,
@@ -3962,8 +3971,8 @@
     "name": "Beetroot",
     "Butikker": [
       { "butikk": "Marked", "pris": 20, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 30, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 10, "mengde": 16 }
+      { "butikk": "Tbshop", "pris": 3, "mengde": 8 },
+      { "butikk": "Regnbuen", "pris": 30, "mengde": 64 }
     ]
   },
   {
@@ -4145,7 +4154,7 @@
     "Stack-size": 1,
     "name": "Trident",
     "Butikker": [
-      { "butikk": "Leoshop", "pris": 17000, "mengde": 1 },
+      { "butikk": "Leoshop", "pris": 16999, "mengde": 1 },
       { "butikk": "Quantum", "pris": 200000, "mengde": 1 }
     ]
   },
@@ -4318,7 +4327,7 @@
     "Butikker": [
       { "butikk": "Target", "pris": 5, "mengde": 32 },
       { "butikk": "Thayserix", "pris": 10, "mengde": 16 },
-      { "butikk": "Butikken", "pris": 15, "mengde": 16 }
+      { "butikk": "Leoshop", "pris": 10, "mengde": 16 }
     ]
   },
   {
@@ -4452,9 +4461,9 @@
     "Stack-size": 64,
     "name": "Smithing Template",
     "Butikker": [
+      { "butikk": "Tbshop", "pris": 349, "mengde": 1 },
       { "butikk": "Nether", "pris": 399, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 400, "mengde": 1 },
-      { "butikk": "Ebz", "pris": 500, "mengde": 1 }
+      { "butikk": "Butikken", "pris": 400, "mengde": 1 }
     ]
   },
   {
