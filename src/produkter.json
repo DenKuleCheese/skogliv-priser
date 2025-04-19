@@ -202,7 +202,7 @@
     "Butikker": [
       { "butikk": "A", "pris": 15, "mengde": 32 },
       { "butikk": "Butikken", "pris": 50, "mengde": 64 },
-      { "butikk": "DSS", "pris": 18, "mengde": 16 }
+      { "butikk": "Terrasjappa", "pris": 50, "mengde": 64 }
     ]
   },
   { "key": "crimson_nylium", "Stack-size": 64, "name": "Crimson Nylium", "Butikker": [{ "butikk": "B", "pris": 80, "mengde": 16 }] },
@@ -459,6 +459,7 @@
     "name": "Block of Copper",
     "Butikker": [
       { "butikk": "Juxielle", "pris": 150, "mengde": 16 },
+      { "butikk": "Terrasjappa", "pris": 400, "mengde": 32 },
       { "butikk": "B", "pris": 449, "mengde": 32 }
     ]
   },
@@ -549,7 +550,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 5, "mengde": 32 },
       { "butikk": "Blossom_Marked", "pris": 10, "mengde": 64 },
-      { "butikk": "Axolotl", "pris": 64, "mengde": 32 }
+      { "butikk": "Terrasjappa", "pris": 15, "mengde": 64 }
     ]
   },
   {
@@ -730,8 +731,8 @@
     "name": "Sandstone",
     "Butikker": [
       { "butikk": "Butikken", "pris": 30, "mengde": 64 },
-      { "butikk": "Bukalu", "pris": 40, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 50, "mengde": 64 }
+      { "butikk": "Terrasjappa", "pris": 32, "mengde": 64 },
+      { "butikk": "Bukalu", "pris": 40, "mengde": 64 }
     ]
   },
   {
@@ -1139,7 +1140,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 64 },
       { "butikk": "A", "pris": 10, "mengde": 32 },
-      { "butikk": "Bukalu", "pris": 15, "mengde": 32 }
+      { "butikk": "Terrasjappa", "pris": 20, "mengde": 64 }
     ]
   },
   { "key": "pale_moss_carpet", "Stack-size": 64, "name": "Pale Moss Carpet", "Butikker": [{ "butikk": "Marked", "pris": 15, "mengde": 16 }] },
@@ -1651,8 +1652,8 @@
     "name": "Block of Quartz",
     "Butikker": [
       { "butikk": "Target", "pris": 100, "mengde": 16 },
-      { "butikk": "Butikken", "pris": 500, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 64, "mengde": 8 }
+      { "butikk": "Terrasjappa", "pris": 479, "mengde": 64 },
+      { "butikk": "Butikken", "pris": 500, "mengde": 64 }
     ]
   },
   { "key": "quartz_bricks", "Stack-size": 64, "name": "Quartz Bricks", "Butikker": [{ "butikk": "Target", "pris": 100, "mengde": 16 }] },
@@ -1670,9 +1671,9 @@
     "Stack-size": 64,
     "name": "White Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 },
-      { "butikk": "Lumia", "pris": 20, "mengde": 16 }
+      { "butikk": "Marked", "pris": 15, "mengde": 16 }
     ]
   },
   {
@@ -1680,9 +1681,9 @@
     "Stack-size": 64,
     "name": "Orange Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Regnbuen", "pris": 50, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 }
+      { "butikk": "Butikken", "pris": 30, "mengde": 32 }
     ]
   },
   {
@@ -1690,6 +1691,7 @@
     "Stack-size": 64,
     "name": "Magenta Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
       { "butikk": "Quantum", "pris": 128, "mengde": 32 }
     ]
@@ -1699,9 +1701,9 @@
     "Stack-size": 64,
     "name": "Light Blue Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Lumia", "pris": 25, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Lumia", "pris": 25, "mengde": 16 }
     ]
   },
   {
@@ -1709,9 +1711,9 @@
     "Stack-size": 64,
     "name": "Yellow Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Regnbuen", "pris": 50, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 }
+      { "butikk": "Butikken", "pris": 30, "mengde": 32 }
     ]
   },
   {
@@ -1719,6 +1721,7 @@
     "Stack-size": 64,
     "name": "Lime Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
       { "butikk": "Quantum", "pris": 128, "mengde": 32 }
     ]
@@ -1728,20 +1731,28 @@
     "Stack-size": 64,
     "name": "Pink Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Lumia", "pris": 20, "mengde": 16 },
+      { "butikk": "Lumia", "pris": 20, "mengde": 16 }
+    ]
+  },
+  {
+    "key": "gray_terracotta",
+    "Stack-size": 64,
+    "name": "Gray Terracotta",
+    "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Quantum", "pris": 128, "mengde": 32 }
     ]
   },
-  { "key": "gray_terracotta", "Stack-size": 64, "name": "Gray Terracotta", "Butikker": [{ "butikk": "Quantum", "pris": 128, "mengde": 32 }] },
   {
     "key": "light_gray_terracotta",
     "Stack-size": 64,
     "name": "Light Gray Terracotta",
     "Butikker": [
       { "butikk": "Regnbuen", "pris": 10, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 }
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
+      { "butikk": "Butikken", "pris": 30, "mengde": 32 }
     ]
   },
   {
@@ -1749,9 +1760,9 @@
     "Stack-size": 64,
     "name": "Cyan Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Lumia", "pris": 25, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Lumia", "pris": 25, "mengde": 16 }
     ]
   },
   {
@@ -1759,9 +1770,9 @@
     "Stack-size": 64,
     "name": "Purple Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Lumia", "pris": 20, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Lumia", "pris": 20, "mengde": 16 }
     ]
   },
   {
@@ -1769,9 +1780,9 @@
     "Stack-size": 64,
     "name": "Blue Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Lumia", "pris": 25, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Lumia", "pris": 25, "mengde": 16 }
     ]
   },
   {
@@ -1779,9 +1790,9 @@
     "Stack-size": 64,
     "name": "Brown Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Regnbuen", "pris": 50, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 }
+      { "butikk": "Butikken", "pris": 30, "mengde": 32 }
     ]
   },
   {
@@ -1789,6 +1800,7 @@
     "Stack-size": 64,
     "name": "Green Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
       { "butikk": "Quantum", "pris": 128, "mengde": 32 }
     ]
@@ -1798,9 +1810,9 @@
     "Stack-size": 64,
     "name": "Red Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 },
-      { "butikk": "Lumia", "pris": 20, "mengde": 16 }
+      { "butikk": "Marked", "pris": 15, "mengde": 16 }
     ]
   },
   {
@@ -1808,6 +1820,7 @@
     "Stack-size": 64,
     "name": "Black Terracotta",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 32 },
       { "butikk": "Quantum", "pris": 128, "mengde": 32 }
     ]
@@ -1819,7 +1832,7 @@
     "Butikker": [
       { "butikk": "Lumia", "pris": 20, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 60, "mengde": 64 }
+      { "butikk": "Terrasjappa", "pris": 40, "mengde": 64 }
     ]
   },
   {
@@ -2066,9 +2079,9 @@
     "Stack-size": 64,
     "name": "Sea Lantern",
     "Butikker": [
+      { "butikk": "Terrasjappa", "pris": 60, "mengde": 8 },
       { "butikk": "Butikken", "pris": 62, "mengde": 8 },
-      { "butikk": "Ida", "pris": 140, "mengde": 16 },
-      { "butikk": "Juxielle", "pris": 150, "mengde": 16 }
+      { "butikk": "Ida", "pris": 140, "mengde": 16 }
     ]
   },
   { "key": "red_sandstone", "Stack-size": 64, "name": "Red Sandstone", "Butikker": [{ "butikk": "Pingu", "pris": 64, "mengde": 64 }] },
@@ -2128,7 +2141,7 @@
     "Butikker": [
       { "butikk": "ShulkerShappa", "pris": 800, "mengde": 1 },
       { "butikk": "Butikken", "pris": 1100, "mengde": 1 },
-      { "butikk": "Pingu", "pris": 1250, "mengde": 1 }
+      { "butikk": "Terrasjappa", "pris": 1100, "mengde": 1 }
     ]
   },
   { "key": "yellow_glazed_terracotta", "Stack-size": 64, "name": "Yellow Glazed Terracotta", "Butikker": [{ "butikk": "Regnbuen", "pris": 15, "mengde": 16 }] },
@@ -2181,7 +2194,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 50, "mengde": 16 },
       { "butikk": "Target", "pris": 50, "mengde": 16 },
-      { "butikk": "Thayserix", "pris": 54, "mengde": 16 }
+      { "butikk": "Terrasjappa", "pris": 50, "mengde": 16 }
     ]
   },
   {
@@ -2238,8 +2251,8 @@
     "name": "Black Concrete",
     "Butikker": [
       { "butikk": "Butikken", "pris": 50, "mengde": 16 },
-      { "butikk": "Thayserix", "pris": 52, "mengde": 16 },
-      { "butikk": "B", "pris": 60, "mengde": 16 }
+      { "butikk": "Terrasjappa", "pris": 50, "mengde": 16 },
+      { "butikk": "Thayserix", "pris": 52, "mengde": 16 }
     ]
   },
   {
@@ -3164,8 +3177,8 @@
     "name": "White Dye",
     "Butikker": [
       { "butikk": "Juxielle", "pris": 0.5, "mengde": 16 },
-      { "butikk": "Regnbuen", "pris": 10, "mengde": 64 },
-      { "butikk": "Thayserix", "pris": 5, "mengde": 16 }
+      { "butikk": "Terrasjappa", "pris": 5, "mengde": 64 },
+      { "butikk": "Regnbuen", "pris": 10, "mengde": 64 }
     ]
   },
   {
@@ -3846,8 +3859,8 @@
     "name": "Name Tag",
     "Butikker": [
       { "butikk": "Marked", "pris": 10, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 40, "mengde": 1 },
-      { "butikk": "LogiCo", "pris": 55, "mengde": 1 }
+      { "butikk": "Terrasjappa", "pris": 35, "mengde": 1 },
+      { "butikk": "Butikken", "pris": 40, "mengde": 1 }
     ]
   },
   {
