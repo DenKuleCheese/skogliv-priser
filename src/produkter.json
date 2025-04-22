@@ -180,7 +180,7 @@
       { "butikk": "Terrasjappa", "pris": 50, "mengde": 64 }
     ]
   },
-  { "key": "crimson_nylium", "Stack-size": 64, "name": "Crimson Nylium", "Butikker": [{ "butikk": "B", "pris": 80, "mengde": 16 }] },
+  { "key": "crimson_nylium", "Stack-size": 64, "name": "Crimson Nylium", "Butikker": [{ "butikk": "B", "pris": 60, "mengde": 16 }] },
   {
     "key": "cobblestone",
     "Stack-size": 64,
@@ -1062,6 +1062,7 @@
   },
   { "key": "crimson_fungus", "Stack-size": 64, "name": "Crimson Fungus", "Butikker": [{ "butikk": "B", "pris": 30, "mengde": 1 }] },
   { "key": "warped_fungus", "Stack-size": 64, "name": "Warped Fungus", "Butikker": [{ "butikk": "B", "pris": 40, "mengde": 1 }] },
+  { "key": "crimson_roots", "Stack-size": 64, "name": "Crimson Roots", "Butikker": [{ "butikk": "B", "pris": 10, "mengde": 1 }] },
   { "key": "warped_roots", "Stack-size": 64, "name": "Warped Roots", "Butikker": [{ "butikk": "Marked", "pris": 30, "mengde": 16 }] },
   {
     "key": "weeping_vines",
@@ -2913,9 +2914,9 @@
     "Stack-size": 64,
     "name": "Gunpowder",
     "Butikker": [
-      { "butikk": "B", "pris": 90, "mengde": 16 },
       { "butikk": "Butikken", "pris": 95, "mengde": 16 },
-      { "butikk": "Tbshop", "pris": 120, "mengde": 16 }
+      { "butikk": "Tbshop", "pris": 120, "mengde": 16 },
+      { "butikk": "Regnbuen", "pris": 125, "mengde": 16 }
     ]
   },
   {
