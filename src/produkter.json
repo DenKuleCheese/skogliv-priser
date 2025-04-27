@@ -6,7 +6,7 @@
     "Butikker": [
       { "butikk": "ShulkerShappa", "pris": 1, "mengde": 64 },
       { "butikk": "Thayserix", "pris": 2, "mengde": 64 },
-      { "butikk": "A", "pris": 5, "mengde": 64 }
+      { "butikk": "Store", "pris": 3, "mengde": 64 }
     ]
   },
   {
@@ -52,9 +52,9 @@
     "Stack-size": 64,
     "name": "Andesite",
     "Butikker": [
+      { "butikk": "Store", "pris": 4, "mengde": 64 },
       { "butikk": "Marked", "pris": 10, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 16, "mengde": 64 },
-      { "butikk": "Juxielle", "pris": 5, "mengde": 16 }
+      { "butikk": "Quantum", "pris": 16, "mengde": 64 }
     ]
   },
   { "key": "polished_andesite", "Stack-size": 64, "name": "Polished Andesite", "Butikker": [{ "butikk": "Pingu", "pris": 16, "mengde": 32 }] },
@@ -75,7 +75,7 @@
     "Butikker": [
       { "butikk": "DSS", "pris": 2, "mengde": 64 },
       { "butikk": "Leoshop", "pris": 1, "mengde": 16 },
-      { "butikk": "Parken", "pris": 10, "mengde": 64 }
+      { "butikk": "Store", "pris": 4, "mengde": 64 }
     ]
   },
   { "key": "polished_deepslate", "Stack-size": 64, "name": "Polished Deepslate", "Butikker": [{ "butikk": "DSS", "pris": 1, "mengde": 64 }] },
@@ -136,9 +136,9 @@
     "Stack-size": 64,
     "name": "Dirt",
     "Butikker": [
+      { "butikk": "Store", "pris": 1, "mengde": 64 },
       { "butikk": "Bukalu", "pris": 5, "mengde": 64 },
-      { "butikk": "A", "pris": 7, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 10, "mengde": 64 }
+      { "butikk": "Rotteshop", "pris": 1, "mengde": 10 }
     ]
   },
   {
@@ -181,14 +181,15 @@
     ]
   },
   { "key": "crimson_nylium", "Stack-size": 64, "name": "Crimson Nylium", "Butikker": [{ "butikk": "B", "pris": 60, "mengde": 16 }] },
+  { "key": "warped_nylium", "Stack-size": 64, "name": "Warped Nylium", "Butikker": [{ "butikk": "Kobai", "pris": 15, "mengde": 32 }] },
   {
     "key": "cobblestone",
     "Stack-size": 64,
     "name": "Cobblestone",
     "Butikker": [
+      { "butikk": "Store", "pris": 1, "mengde": 64 },
       { "butikk": "DSS", "pris": 2, "mengde": 64 },
-      { "butikk": "Thayserix", "pris": 4, "mengde": 64 },
-      { "butikk": "A", "pris": 4, "mengde": 64 }
+      { "butikk": "Thayserix", "pris": 4, "mengde": 64 }
     ]
   },
   {
@@ -197,6 +198,7 @@
     "name": "Oak Planks",
     "Butikker": [
       { "butikk": "Bukalu", "pris": 5, "mengde": 64 },
+      { "butikk": "Rotteshop", "pris": 5, "mengde": 32 },
       { "butikk": "Leoshop", "pris": 5, "mengde": 16 }
     ]
   },
@@ -244,7 +246,8 @@
     "name": "Cherry Planks",
     "Butikker": [
       { "butikk": "Leoshop", "pris": 5, "mengde": 16 },
-      { "butikk": "Bukalu", "pris": 15, "mengde": 32 }
+      { "butikk": "Bukalu", "pris": 15, "mengde": 32 },
+      { "butikk": "Rotteshop", "pris": 8, "mengde": 10 }
     ]
   },
   {
@@ -263,10 +266,12 @@
     "name": "Bamboo Planks",
     "Butikker": [
       { "butikk": "Leoshop", "pris": 5, "mengde": 16 },
+      { "butikk": "Kobai", "pris": 30, "mengde": 64 },
       { "butikk": "Marked", "pris": 50, "mengde": 64 }
     ]
   },
   { "key": "crimson_planks", "Stack-size": 64, "name": "Crimson Planks", "Butikker": [{ "butikk": "Leoshop", "pris": 5, "mengde": 16 }] },
+  { "key": "bamboo_mosaic", "Stack-size": 64, "name": "Bamboo Mosaic", "Butikker": [{ "butikk": "Kobai", "pris": 45, "mengde": 64 }] },
   {
     "key": "oak_sapling",
     "Stack-size": 64,
@@ -323,8 +328,8 @@
     "name": "Cherry Sapling",
     "Butikker": [
       { "butikk": "Blossom_Marked", "pris": 10, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 50, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 16, "mengde": 4 }
+      { "butikk": "Store", "pris": 2, "mengde": 2 },
+      { "butikk": "Regnbuen", "pris": 50, "mengde": 16 }
     ]
   },
   {
@@ -460,8 +465,8 @@
     "name": "Oak Log",
     "Butikker": [
       { "butikk": "DSS", "pris": 5, "mengde": 64 },
-      { "butikk": "A", "pris": 9, "mengde": 64 },
-      { "butikk": "Bukalu", "pris": 10, "mengde": 64 }
+      { "butikk": "Rotteshop", "pris": 5, "mengde": 64 },
+      { "butikk": "A", "pris": 9, "mengde": 64 }
     ]
   },
   {
@@ -499,9 +504,9 @@
     "Stack-size": 64,
     "name": "Acacia Log",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "Ebz", "pris": 15, "mengde": 64 },
-      { "butikk": "Blossom_Marked", "pris": 15, "mengde": 64 },
-      { "butikk": "Pingu", "pris": 4, "mengde": 16 }
+      { "butikk": "Blossom_Marked", "pris": 15, "mengde": 64 }
     ]
   },
   {
@@ -511,7 +516,7 @@
     "Butikker": [
       { "butikk": "A", "pris": 9, "mengde": 64 },
       { "butikk": "Bukalu", "pris": 20, "mengde": 64 },
-      { "butikk": "Thayserix", "pris": 13, "mengde": 32 }
+      { "butikk": "Store", "pris": 12, "mengde": 32 }
     ]
   },
   {
@@ -530,8 +535,8 @@
     "name": "Dark Oak Log",
     "Butikker": [
       { "butikk": "Axolotl", "pris": 0, "mengde": 64 },
-      { "butikk": "DSS", "pris": 6, "mengde": 64 },
-      { "butikk": "A", "pris": 9, "mengde": 64 }
+      { "butikk": "Store", "pris": 5, "mengde": 64 },
+      { "butikk": "DSS", "pris": 6, "mengde": 64 }
     ]
   },
   {
@@ -571,7 +576,7 @@
     "Butikker": [
       { "butikk": "A", "pris": 9, "mengde": 64 },
       { "butikk": "Pingu", "pris": 4, "mengde": 16 },
-      { "butikk": "Juxielle", "pris": 5, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 4, "mengde": 16 }
     ]
   },
   {
@@ -589,6 +594,7 @@
     "Stack-size": 64,
     "name": "Block of Bamboo",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 25, "mengde": 64 },
       { "butikk": "LogiCo", "pris": 15, "mengde": 32 },
       { "butikk": "Marked", "pris": 40, "mengde": 64 }
     ]
@@ -692,9 +698,9 @@
     "Stack-size": 64,
     "name": "Sandstone",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "Butikken", "pris": 30, "mengde": 64 },
-      { "butikk": "HonniKorn", "pris": 15, "mengde": 32 },
-      { "butikk": "Terrasjappa", "pris": 32, "mengde": 64 }
+      { "butikk": "HonniKorn", "pris": 15, "mengde": 32 }
     ]
   },
   {
@@ -925,6 +931,7 @@
       { "butikk": "Juxielle", "pris": 15, "mengde": 8 }
     ]
   },
+  { "key": "closed_eyeblossom", "Stack-size": 64, "name": "Closed Eyeblossom", "Butikker": [{ "butikk": "larzzern", "pris": 30, "mengde": 32 }] },
   {
     "key": "poppy",
     "Stack-size": 64,
@@ -1060,15 +1067,48 @@
       { "butikk": "Quantum", "pris": 16, "mengde": 4 }
     ]
   },
-  { "key": "crimson_fungus", "Stack-size": 64, "name": "Crimson Fungus", "Butikker": [{ "butikk": "B", "pris": 30, "mengde": 1 }] },
-  { "key": "warped_fungus", "Stack-size": 64, "name": "Warped Fungus", "Butikker": [{ "butikk": "B", "pris": 40, "mengde": 1 }] },
-  { "key": "crimson_roots", "Stack-size": 64, "name": "Crimson Roots", "Butikker": [{ "butikk": "B", "pris": 10, "mengde": 1 }] },
-  { "key": "warped_roots", "Stack-size": 64, "name": "Warped Roots", "Butikker": [{ "butikk": "Marked", "pris": 30, "mengde": 16 }] },
+  {
+    "key": "crimson_fungus",
+    "Stack-size": 64,
+    "name": "Crimson Fungus",
+    "Butikker": [
+      { "butikk": "Kobai", "pris": 20, "mengde": 1 },
+      { "butikk": "B", "pris": 30, "mengde": 1 }
+    ]
+  },
+  {
+    "key": "warped_fungus",
+    "Stack-size": 64,
+    "name": "Warped Fungus",
+    "Butikker": [
+      { "butikk": "Kobai", "pris": 12, "mengde": 4 },
+      { "butikk": "B", "pris": 40, "mengde": 1 }
+    ]
+  },
+  {
+    "key": "crimson_roots",
+    "Stack-size": 64,
+    "name": "Crimson Roots",
+    "Butikker": [
+      { "butikk": "Kobai", "pris": 30, "mengde": 16 },
+      { "butikk": "B", "pris": 10, "mengde": 1 }
+    ]
+  },
+  {
+    "key": "warped_roots",
+    "Stack-size": 64,
+    "name": "Warped Roots",
+    "Butikker": [
+      { "butikk": "Kobai", "pris": 27, "mengde": 16 },
+      { "butikk": "Marked", "pris": 30, "mengde": 16 }
+    ]
+  },
   {
     "key": "weeping_vines",
     "Stack-size": 64,
     "name": "Weeping Vines",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 25, "mengde": 16 },
       { "butikk": "Marked", "pris": 30, "mengde": 16 },
       { "butikk": "B", "pris": 20, "mengde": 1 }
     ]
@@ -1090,7 +1130,7 @@
     "Butikker": [
       { "butikk": "Ebz", "pris": 10, "mengde": 64 },
       { "butikk": "A", "pris": 10, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 16, "mengde": 32 }
+      { "butikk": "larzzern", "pris": 20, "mengde": 64 }
     ]
   },
   {
@@ -1098,9 +1138,9 @@
     "Stack-size": 64,
     "name": "Pink Petals",
     "Butikker": [
+      { "butikk": "Store", "pris": 5, "mengde": 16 },
       { "butikk": "Blossom_Marked", "pris": 8, "mengde": 5 },
-      { "butikk": "Juxielle", "pris": 15, "mengde": 8 },
-      { "butikk": "Parken", "pris": 32, "mengde": 16 }
+      { "butikk": "Juxielle", "pris": 15, "mengde": 8 }
     ]
   },
   {
@@ -1148,11 +1188,13 @@
     "Stack-size": 64,
     "name": "Bamboo",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 1, "mengde": 64 },
       { "butikk": "Butikk", "pris": 4, "mengde": 64 },
-      { "butikk": "A", "pris": 4, "mengde": 64 },
-      { "butikk": "Pingu", "pris": 2, "mengde": 16 }
+      { "butikk": "A", "pris": 4, "mengde": 64 }
     ]
   },
+  { "key": "bamboo_slab", "Stack-size": 64, "name": "Bamboo Slab", "Butikker": [{ "butikk": "Kobai", "pris": 12, "mengde": 2 }] },
+  { "key": "bamboo_mosaic_slab", "Stack-size": 64, "name": "Bamboo Mosaic Slab", "Butikker": [{ "butikk": "Kobai", "pris": 15, "mengde": 2 }] },
   { "key": "purpur_slab", "Stack-size": 64, "name": "Purpur Slab", "Butikker": [{ "butikk": "Quantum", "pris": 16, "mengde": 8 }] },
   { "key": "smooth_quartz", "Stack-size": 64, "name": "Smooth Quartz Block", "Butikker": [{ "butikk": "Quantum", "pris": 64, "mengde": 8 }] },
   {
@@ -1222,7 +1264,7 @@
     "Butikker": [
       { "butikk": "A", "pris": 15, "mengde": 16 },
       { "butikk": "DSS", "pris": 20, "mengde": 16 },
-      { "butikk": "Butikken", "pris": 100, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 40, "mengde": 8 }
     ]
   },
   {
@@ -1261,7 +1303,7 @@
     "Butikker": [
       { "butikk": "Quantum", "pris": 32, "mengde": 16 },
       { "butikk": "Pingu", "pris": 32, "mengde": 16 },
-      { "butikk": "B", "pris": 90, "mengde": 16 }
+      { "butikk": "Store", "pris": 70, "mengde": 32 }
     ]
   },
   {
@@ -1271,7 +1313,7 @@
     "Butikker": [
       { "butikk": "Quantum", "pris": 32, "mengde": 16 },
       { "butikk": "Pingu", "pris": 32, "mengde": 16 },
-      { "butikk": "B", "pris": 90, "mengde": 16 }
+      { "butikk": "Store", "pris": 70, "mengde": 32 }
     ]
   },
   {
@@ -1299,8 +1341,8 @@
     "name": "Chest",
     "Butikker": [
       { "butikk": "HonniKorn", "pris": 5, "mengde": 16 },
-      { "butikk": "Regnbuen", "pris": 20, "mengde": 16 },
-      { "butikk": "Parken", "pris": 2, "mengde": 1 }
+      { "butikk": "Kobai", "pris": 7, "mengde": 16 },
+      { "butikk": "Regnbuen", "pris": 20, "mengde": 16 }
     ]
   },
   {
@@ -1338,8 +1380,8 @@
     "name": "Snow Block",
     "Butikker": [
       { "butikk": "LogiCo", "pris": 15, "mengde": 32 },
-      { "butikk": "Butikken", "pris": 20, "mengde": 32 },
-      { "butikk": "Billigshappa", "pris": 15, "mengde": 8 }
+      { "butikk": "Store", "pris": 16, "mengde": 32 },
+      { "butikk": "Butikken", "pris": 20, "mengde": 32 }
     ]
   },
   {
@@ -1363,6 +1405,7 @@
     ]
   },
   { "key": "jukebox", "Stack-size": 64, "name": "Jukebox", "Butikker": [{ "butikk": "B", "pris": 100, "mengde": 1 }] },
+  { "key": "bamboo_fence", "Stack-size": 64, "name": "Bamboo Fence", "Butikker": [{ "butikk": "Kobai", "pris": 15, "mengde": 2 }] },
   {
     "key": "pumpkin",
     "Stack-size": 64,
@@ -1378,9 +1421,9 @@
     "Stack-size": 64,
     "name": "Netherrack",
     "Butikker": [
-      { "butikk": "0o", "pris": 2, "mengde": 64 },
-      { "butikk": "A", "pris": 4, "mengde": 64 },
-      { "butikk": "Pingu", "pris": 12, "mengde": 64 }
+      { "butikk": "Kobai", "pris": 1, "mengde": 64 },
+      { "butikk": "Store", "pris": 1, "mengde": 64 },
+      { "butikk": "0o", "pris": 2, "mengde": 64 }
     ]
   },
   {
@@ -1389,8 +1432,8 @@
     "name": "Soul Sand",
     "Butikker": [
       { "butikk": "A", "pris": 6, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 64 },
-      { "butikk": "Pingu", "pris": 8, "mengde": 16 }
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
+      { "butikk": "Kobai", "pris": 14, "mengde": 32 }
     ]
   },
   {
@@ -1400,7 +1443,7 @@
     "Butikker": [
       { "butikk": "A", "pris": 6, "mengde": 64 },
       { "butikk": "HonniKorn", "pris": 20, "mengde": 32 },
-      { "butikk": "Marked", "pris": 50, "mengde": 64 }
+      { "butikk": "Kobai", "pris": 20, "mengde": 32 }
     ]
   },
   {
@@ -1408,9 +1451,9 @@
     "Stack-size": 64,
     "name": "Basalt",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 7, "mengde": 32 },
       { "butikk": "Butikken", "pris": 15, "mengde": 64 },
-      { "butikk": "A", "pris": 15, "mengde": 64 },
-      { "butikk": "Thayserix", "pris": 10, "mengde": 16 }
+      { "butikk": "A", "pris": 15, "mengde": 64 }
     ]
   },
   {
@@ -1439,7 +1482,7 @@
     "Butikker": [
       { "butikk": "A", "pris": 8, "mengde": 32 },
       { "butikk": "0o", "pris": 45, "mengde": 32 },
-      { "butikk": "Juxielle", "pris": 35, "mengde": 16 }
+      { "butikk": "Store", "pris": 32, "mengde": 16 }
     ]
   },
   {
@@ -1447,9 +1490,9 @@
     "Stack-size": 64,
     "name": "Stone Bricks",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "Bukalu", "pris": 15, "mengde": 64 },
-      { "butikk": "0o", "pris": 22, "mengde": 64 },
-      { "butikk": "HonniKorn", "pris": 15, "mengde": 32 }
+      { "butikk": "0o", "pris": 22, "mengde": 64 }
     ]
   },
   {
@@ -1555,8 +1598,8 @@
     "name": "Nether Bricks",
     "Butikker": [
       { "butikk": "HonniKorn", "pris": 20, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 32, "mengde": 16 },
-      { "butikk": "Pingu", "pris": 32, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 30, "mengde": 16 },
+      { "butikk": "Quantum", "pris": 32, "mengde": 16 }
     ]
   },
   {
@@ -1593,9 +1636,9 @@
     "Stack-size": 64,
     "name": "End Stone",
     "Butikker": [
+      { "butikk": "Store", "pris": 10, "mengde": 64 },
       { "butikk": "ShulkerShappa", "pris": 15, "mengde": 64 },
-      { "butikk": "HonniKorn", "pris": 30, "mengde": 32 },
-      { "butikk": "Quantum", "pris": 32, "mengde": 16 }
+      { "butikk": "HonniKorn", "pris": 30, "mengde": 32 }
     ]
   },
   {
@@ -1618,6 +1661,8 @@
       { "butikk": "Regnbuen", "pris": 200, "mengde": 1 }
     ]
   },
+  { "key": "bamboo_stairs", "Stack-size": 64, "name": "Bamboo Stairs", "Butikker": [{ "butikk": "Kobai", "pris": 12, "mengde": 2 }] },
+  { "key": "bamboo_mosaic_stairs", "Stack-size": 64, "name": "Bamboo Mosaic Stairs", "Butikker": [{ "butikk": "Kobai", "pris": 15, "mengde": 2 }] },
   {
     "key": "beacon",
     "Stack-size": 64,
@@ -1647,9 +1692,9 @@
     "Stack-size": 64,
     "name": "Block of Quartz",
     "Butikker": [
+      { "butikk": "Store", "pris": 210, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 479, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 500, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 64, "mengde": 8 }
+      { "butikk": "Kobai", "pris": 124.75, "mengde": 16 }
     ]
   },
   { "key": "quartz_pillar", "Stack-size": 64, "name": "Quartz Pillar", "Butikker": [{ "butikk": "Pingu", "pris": 425, "mengde": 16 }] },
@@ -1660,7 +1705,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 26, "mengde": 32 }
     ]
   },
   {
@@ -1680,7 +1725,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1690,7 +1735,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 25, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1710,7 +1755,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1720,7 +1765,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 20, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1729,6 +1774,7 @@
     "name": "Gray Terracotta",
     "Butikker": [
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 },
       { "butikk": "Quantum", "pris": 128, "mengde": 32 }
     ]
   },
@@ -1749,7 +1795,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 25, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1759,7 +1805,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 20, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1769,7 +1815,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Lumia", "pris": 25, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1789,7 +1835,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Parken", "pris": 32, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   {
@@ -1799,7 +1845,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Marked", "pris": 15, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 26, "mengde": 32 }
     ]
   },
   {
@@ -1809,7 +1855,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 32 },
       { "butikk": "Terrasjappa", "pris": 45, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 128, "mengde": 32 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 32 }
     ]
   },
   { "key": "hay_block", "Stack-size": 64, "name": "Hay Bale", "Butikker": [{ "butikk": "Parken", "pris": 9, "mengde": 1 }] },
@@ -1819,8 +1865,8 @@
     "name": "Terracotta",
     "Butikker": [
       { "butikk": "Lumia", "pris": 20, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 64 },
-      { "butikk": "Terrasjappa", "pris": 40, "mengde": 64 }
+      { "butikk": "Kobai", "pris": 28, "mengde": 64 },
+      { "butikk": "Butikken", "pris": 30, "mengde": 64 }
     ]
   },
   {
@@ -2069,9 +2115,9 @@
     "Stack-size": 64,
     "name": "Sea Lantern",
     "Butikker": [
+      { "butikk": "Store", "pris": 26, "mengde": 4 },
       { "butikk": "Terrasjappa", "pris": 60, "mengde": 8 },
-      { "butikk": "Butikken", "pris": 62, "mengde": 8 },
-      { "butikk": "Ida", "pris": 140, "mengde": 16 }
+      { "butikk": "Butikken", "pris": 62, "mengde": 8 }
     ]
   },
   {
@@ -2089,8 +2135,8 @@
     "name": "Magma Block",
     "Butikker": [
       { "butikk": "A", "pris": 5, "mengde": 32 },
-      { "butikk": "Pingu", "pris": 10, "mengde": 16 },
-      { "butikk": "Marked", "pris": 20, "mengde": 32 }
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
+      { "butikk": "Kobai", "pris": 19, "mengde": 32 }
     ]
   },
   {
@@ -2098,9 +2144,9 @@
     "Stack-size": 64,
     "name": "Nether Wart Block",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 4, "mengde": 32 },
       { "butikk": "A", "pris": 9, "mengde": 64 },
-      { "butikk": "Marked", "pris": 10, "mengde": 64 },
-      { "butikk": "Quantum", "pris": 32, "mengde": 64 }
+      { "butikk": "Marked", "pris": 10, "mengde": 64 }
     ]
   },
   {
@@ -2108,9 +2154,9 @@
     "Stack-size": 64,
     "name": "Warped Wart Block",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 4, "mengde": 32 },
       { "butikk": "Marked", "pris": 10, "mengde": 64 },
-      { "butikk": "A", "pris": 10, "mengde": 64 },
-      { "butikk": "HonniKorn", "pris": 15, "mengde": 32 }
+      { "butikk": "A", "pris": 10, "mengde": 64 }
     ]
   },
   {
@@ -2138,8 +2184,8 @@
     "name": "Shulker Box",
     "Butikker": [
       { "butikk": "ShulkerShappa", "pris": 800, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 1100, "mengde": 1 },
-      { "butikk": "Terrasjappa", "pris": 1100, "mengde": 1 }
+      { "butikk": "Store", "pris": 950, "mengde": 1 },
+      { "butikk": "Butikken", "pris": 1100, "mengde": 1 }
     ]
   },
   { "key": "yellow_glazed_terracotta", "Stack-size": 64, "name": "Yellow Glazed Terracotta", "Butikker": [{ "butikk": "Regnbuen", "pris": 15, "mengde": 16 }] },
@@ -2319,6 +2365,7 @@
     "Stack-size": 64,
     "name": "Light Gray Concrete Powder",
     "Butikker": [
+      { "butikk": "Store", "pris": 49, "mengde": 32 },
       { "butikk": "B", "pris": 80, "mengde": 32 },
       { "butikk": "Thayserix", "pris": 45, "mengde": 16 }
     ]
@@ -2411,9 +2458,9 @@
     "Stack-size": 64,
     "name": "Redstone Dust",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "0o", "pris": 10, "mengde": 32 },
-      { "butikk": "Bukalu", "pris": 20, "mengde": 64 },
-      { "butikk": "Tbshop", "pris": 6, "mengde": 16 }
+      { "butikk": "Bukalu", "pris": 20, "mengde": 64 }
     ]
   },
   {
@@ -2421,9 +2468,9 @@
     "Stack-size": 64,
     "name": "Redstone Torch",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 8, "mengde": 16 },
       { "butikk": "Butikken", "pris": 40, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 10, "mengde": 16 },
-      { "butikk": "Marked", "pris": 10, "mengde": 16 }
+      { "butikk": "Regnbuen", "pris": 10, "mengde": 16 }
     ]
   },
   {
@@ -2440,9 +2487,9 @@
     "Stack-size": 64,
     "name": "Redstone Repeater",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 30, "mengde": 4 },
       { "butikk": "Thayserix", "pris": 70, "mengde": 8 },
-      { "butikk": "Parken", "pris": 9, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 10, "mengde": 1 }
+      { "butikk": "Parken", "pris": 9, "mengde": 1 }
     ]
   },
   {
@@ -2450,9 +2497,9 @@
     "Stack-size": 64,
     "name": "Redstone Comparator",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 35, "mengde": 4 },
       { "butikk": "Thayserix", "pris": 80, "mengde": 8 },
-      { "butikk": "Marked", "pris": 12, "mengde": 1 },
-      { "butikk": "Bukalu", "pris": 25, "mengde": 2 }
+      { "butikk": "Marked", "pris": 12, "mengde": 1 }
     ]
   },
   {
@@ -2460,9 +2507,9 @@
     "Stack-size": 64,
     "name": "Piston",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 15, "mengde": 2 },
       { "butikk": "Bukalu", "pris": 70, "mengde": 8 },
-      { "butikk": "Juxielle", "pris": 75, "mengde": 8 },
-      { "butikk": "Butikken", "pris": 10, "mengde": 1 }
+      { "butikk": "Juxielle", "pris": 75, "mengde": 8 }
     ]
   },
   {
@@ -2472,7 +2519,7 @@
     "Butikker": [
       { "butikk": "Bukalu", "pris": 110, "mengde": 8 },
       { "butikk": "Butikken", "pris": 15, "mengde": 1 },
-      { "butikk": "Juxielle", "pris": 175, "mengde": 8 }
+      { "butikk": "Kobai", "pris": 30, "mengde": 2 }
     ]
   },
   { "key": "slime_block", "Stack-size": 64, "name": "Slime Block", "Butikker": [{ "butikk": "Parken", "pris": 36, "mengde": 1 }] },
@@ -2491,9 +2538,9 @@
     "Stack-size": 64,
     "name": "Observer",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 15, "mengde": 2 },
       { "butikk": "Bukalu", "pris": 70, "mengde": 8 },
-      { "butikk": "Juxielle", "pris": 75, "mengde": 8 },
-      { "butikk": "Butikken", "pris": 15, "mengde": 1 }
+      { "butikk": "Juxielle", "pris": 75, "mengde": 8 }
     ]
   },
   {
@@ -2501,9 +2548,9 @@
     "Stack-size": 64,
     "name": "Hopper",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 29, "mengde": 8 },
       { "butikk": "Butikken", "pris": 30, "mengde": 8 },
-      { "butikk": "Juxielle", "pris": 50, "mengde": 8 },
-      { "butikk": "Bukalu", "pris": 50, "mengde": 8 }
+      { "butikk": "Juxielle", "pris": 50, "mengde": 8 }
     ]
   },
   {
@@ -2522,8 +2569,8 @@
     "name": "Dropper",
     "Butikker": [
       { "butikk": "Bukalu", "pris": 20, "mengde": 8 },
-      { "butikk": "Juxielle", "pris": 35, "mengde": 8 },
-      { "butikk": "Butikken", "pris": 15, "mengde": 1 }
+      { "butikk": "Kobai", "pris": 5, "mengde": 2 },
+      { "butikk": "Juxielle", "pris": 35, "mengde": 8 }
     ]
   },
   {
@@ -2535,11 +2582,13 @@
       { "butikk": "Marked", "pris": 30, "mengde": 1 }
     ]
   },
+  { "key": "lever", "Stack-size": 64, "name": "Lever", "Butikker": [{ "butikk": "Kobai", "pris": 5, "mengde": 4 }] },
   {
     "key": "daylight_detector",
     "Stack-size": 64,
     "name": "Daylight Detector",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 35, "mengde": 2 },
       { "butikk": "Marked", "pris": 20, "mengde": 1 },
       { "butikk": "B", "pris": 35, "mengde": 1 }
     ]
@@ -2578,7 +2627,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 40, "mengde": 8 },
       { "butikk": "Parken", "pris": 5, "mengde": 1 },
-      { "butikk": "Marked", "pris": 30, "mengde": 4 }
+      { "butikk": "Kobai", "pris": 20, "mengde": 4 }
     ]
   },
   {
@@ -2587,9 +2636,15 @@
     "name": "Note Block",
     "Butikker": [
       { "butikk": "Butikken", "pris": 10, "mengde": 16 },
+      { "butikk": "Kobai", "pris": 7, "mengde": 10 },
       { "butikk": "B", "pris": 3, "mengde": 1 }
     ]
   },
+  { "key": "bamboo_button", "Stack-size": 64, "name": "Bamboo Button", "Butikker": [{ "butikk": "Kobai", "pris": 5, "mengde": 1 }] },
+  { "key": "bamboo_pressure_plate", "Stack-size": 64, "name": "Bamboo Pressure Plate", "Butikker": [{ "butikk": "Kobai", "pris": 5, "mengde": 1 }] },
+  { "key": "bamboo_door", "Stack-size": 64, "name": "Bamboo Door", "Butikker": [{ "butikk": "Kobai", "pris": 15, "mengde": 2 }] },
+  { "key": "bamboo_trapdoor", "Stack-size": 64, "name": "Bamboo Trapdoor", "Butikker": [{ "butikk": "Kobai", "pris": 20, "mengde": 2 }] },
+  { "key": "bamboo_fence_gate", "Stack-size": 64, "name": "Bamboo Fence Gate", "Butikker": [{ "butikk": "Kobai", "pris": 15, "mengde": 2 }] },
   {
     "key": "powered_rail",
     "Stack-size": 64,
@@ -2650,7 +2705,9 @@
       { "butikk": "Leoshop", "pris": 1500, "mengde": 1 }
     ]
   },
+  { "key": "oak_boat", "Stack-size": 1, "name": "Oak Boat", "Butikker": [{ "butikk": "Store", "pris": 2, "mengde": 1 }] },
   { "key": "spruce_boat", "Stack-size": 1, "name": "Spruce Boat", "Butikker": [{ "butikk": "BåtIs", "pris": 5, "mengde": 1 }] },
+  { "key": "bamboo_raft", "Stack-size": 1, "name": "Bamboo Raft", "Butikker": [{ "butikk": "Kobai", "pris": 10, "mengde": 1 }] },
   {
     "key": "turtle_helmet",
     "Stack-size": 1,
@@ -2712,9 +2769,9 @@
     "Stack-size": 1,
     "name": "Bow",
     "Butikker": [
+      { "butikk": "Rotteshop", "pris": 20, "mengde": 1 },
       { "butikk": "B", "pris": 99, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 899, "mengde": 1 },
-      { "butikk": "Regnbuen", "pris": 900, "mengde": 1 }
+      { "butikk": "Butikken", "pris": 899, "mengde": 1 }
     ]
   },
   {
@@ -2733,8 +2790,8 @@
     "name": "Coal",
     "Butikker": [
       { "butikk": "LogiCo", "pris": 10, "mengde": 64 },
-      { "butikk": "ShulkerShappa", "pris": 16, "mengde": 64 },
-      { "butikk": "SkogHolm", "pris": 28, "mengde": 64 }
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
+      { "butikk": "ShulkerShappa", "pris": 16, "mengde": 64 }
     ]
   },
   {
@@ -2794,7 +2851,7 @@
     "Butikker": [
       { "butikk": "Regnbuen", "pris": 50, "mengde": 64 },
       { "butikk": "Ebz", "pris": 25, "mengde": 32 },
-      { "butikk": "Butikken", "pris": 20, "mengde": 16 }
+      { "butikk": "Store", "pris": 1, "mengde": 1 }
     ]
   },
   {
@@ -2803,8 +2860,8 @@
     "name": "Iron Ingot",
     "Butikker": [
       { "butikk": "ShulkerShappa", "pris": 20, "mengde": 64 },
-      { "butikk": "Thelittleshop", "pris": 29, "mengde": 64 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 64 }
+      { "butikk": "Store", "pris": 12, "mengde": 32 },
+      { "butikk": "Thelittleshop", "pris": 29, "mengde": 64 }
     ]
   },
   { "key": "raw_copper", "Stack-size": 64, "name": "Raw Copper", "Butikker": [{ "butikk": "Regnbuen", "pris": 50, "mengde": 32 }] },
@@ -2833,9 +2890,9 @@
     "Stack-size": 64,
     "name": "Netherite Ingot",
     "Butikker": [
+      { "butikk": "Store", "pris": 1100, "mengde": 1 },
       { "butikk": "A", "pris": 1111, "mengde": 1 },
-      { "butikk": "Tbshop", "pris": 1249, "mengde": 1 },
-      { "butikk": "Bukalu", "pris": 1250, "mengde": 1 }
+      { "butikk": "Tbshop", "pris": 1249, "mengde": 1 }
     ]
   },
   { "key": "netherite_scrap", "Stack-size": 64, "name": "Netherite Scrap", "Butikker": [{ "butikk": "HonniKorn", "pris": 350, "mengde": 1 }] },
@@ -2995,7 +3052,7 @@
     "Butikker": [
       { "butikk": "LogiCo", "pris": 3, "mengde": 32 },
       { "butikk": "Bukalu", "pris": 5, "mengde": 16 },
-      { "butikk": "Pingu", "pris": 6, "mengde": 16 }
+      { "butikk": "Store", "pris": 5, "mengde": 16 }
     ]
   },
   { "key": "porkchop", "Stack-size": 64, "name": "Raw Porkchop", "Butikker": [{ "butikk": "B", "pris": 139, "mengde": 16 }] },
@@ -3024,7 +3081,8 @@
     "name": "Golden Apple",
     "Butikker": [
       { "butikk": "Parken", "pris": 25, "mengde": 1 },
-      { "butikk": "Regnbuen", "pris": 50, "mengde": 1 }
+      { "butikk": "Regnbuen", "pris": 50, "mengde": 1 },
+      { "butikk": "Store", "pris": 89, "mengde": 1 }
     ]
   },
   {
@@ -3038,6 +3096,7 @@
     ]
   },
   { "key": "spruce_sign", "Stack-size": 16, "name": "Spruce Sign", "Butikker": [{ "butikk": "Leoshop", "pris": 2, "mengde": 1 }] },
+  { "key": "bamboo_sign", "Stack-size": 16, "name": "Bamboo Sign", "Butikker": [{ "butikk": "Kobai", "pris": 20, "mengde": 2 }] },
   { "key": "bucket", "Stack-size": 16, "name": "Bucket", "Butikker": [{ "butikk": "B", "pris": 20, "mengde": 1 }] },
   {
     "key": "water_bucket",
@@ -3074,8 +3133,8 @@
     "name": "Snowball",
     "Butikker": [
       { "butikk": "Tbshop", "pris": 8, "mengde": 16 },
-      { "butikk": "Parken", "pris": 4, "mengde": 4 },
-      { "butikk": "B", "pris": 4, "mengde": 1 }
+      { "butikk": "Rotteshop", "pris": 15, "mengde": 16 },
+      { "butikk": "Parken", "pris": 4, "mengde": 4 }
     ]
   },
   {
@@ -3103,6 +3162,7 @@
     "Stack-size": 64,
     "name": "Brick",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "Regnbuen", "pris": 15, "mengde": 16 },
       { "butikk": "Lumia", "pris": 45, "mengde": 16 }
     ]
@@ -3135,7 +3195,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 40, "mengde": 16 },
       { "butikk": "Juxielle", "pris": 30, "mengde": 8 },
-      { "butikk": "Parken", "pris": 4, "mengde": 1 }
+      { "butikk": "Store", "pris": 15, "mengde": 4 }
     ]
   },
   {
@@ -3215,10 +3275,11 @@
     "name": "Cooked Cod",
     "Butikker": [
       { "butikk": "0o", "pris": 12, "mengde": 64 },
-      { "butikk": "Juxielle", "pris": 5, "mengde": 16 },
-      { "butikk": "Ida", "pris": 5, "mengde": 16 }
+      { "butikk": "Store", "pris": 16, "mengde": 64 },
+      { "butikk": "Juxielle", "pris": 5, "mengde": 16 }
     ]
   },
+  { "key": "cooked_salmon", "Stack-size": 64, "name": "Cooked Salmon", "Butikker": [{ "butikk": "Store", "pris": 16, "mengde": 4 }] },
   {
     "key": "ink_sac",
     "Stack-size": 64,
@@ -3451,6 +3512,7 @@
   },
   { "key": "white_bed", "Stack-size": 1, "name": "White Bed", "Butikker": [{ "butikk": "Parken", "pris": 15, "mengde": 1 }] },
   { "key": "yellow_bed", "Stack-size": 1, "name": "Yellow Bed", "Butikker": [{ "butikk": "Regnbuen", "pris": 10, "mengde": 1 }] },
+  { "key": "red_bed", "Stack-size": 1, "name": "Red Bed", "Butikker": [{ "butikk": "Rotteshop", "pris": 15, "mengde": 1 }] },
   {
     "key": "cookie",
     "Stack-size": 64,
@@ -3569,8 +3631,8 @@
     "name": "Nether Wart",
     "Butikker": [
       { "butikk": "LogiCo", "pris": 3, "mengde": 64 },
-      { "butikk": "Tbshop", "pris": 2, "mengde": 16 },
-      { "butikk": "Butikken", "pris": 30, "mengde": 64 }
+      { "butikk": "Kobai", "pris": 3, "mengde": 64 },
+      { "butikk": "Tbshop", "pris": 2, "mengde": 16 }
     ]
   },
   {
@@ -3609,8 +3671,8 @@
     "name": "Brewing Stand",
     "Butikker": [
       { "butikk": "Quantum", "pris": 10, "mengde": 1 },
-      { "butikk": "Parken", "pris": 15, "mengde": 1 },
-      { "butikk": "Blossom_Marked", "pris": 30, "mengde": 1 }
+      { "butikk": "Store", "pris": 10, "mengde": 1 },
+      { "butikk": "Parken", "pris": 15, "mengde": 1 }
     ]
   },
   { "key": "cauldron", "Stack-size": 64, "name": "Cauldron", "Butikker": [{ "butikk": "Juxielle", "pris": 60, "mengde": 8 }] },
@@ -3624,6 +3686,7 @@
       { "butikk": "LogiCo", "pris": 25, "mengde": 1 }
     ]
   },
+  { "key": "glistering_melon_slice", "Stack-size": 64, "name": "Glistering Melon Slice", "Butikker": [{ "butikk": "Store", "pris": 89, "mengde": 1 }] },
   { "key": "armadillo_spawn_egg", "Stack-size": 64, "name": "Armadillo Spawn Egg", "Butikker": [{ "butikk": "B", "pris": 299, "mengde": 1 }] },
   { "key": "allay_spawn_egg", "Stack-size": 64, "name": "Allay Spawn Egg", "Butikker": [{ "butikk": "Bakeriet", "pris": 750, "mengde": 1 }] },
   {
@@ -3650,9 +3713,9 @@
     "Stack-size": 64,
     "name": "Chicken Spawn Egg",
     "Butikker": [
+      { "butikk": "Store", "pris": 70, "mengde": 1 },
       { "butikk": "HonniKorn", "pris": 100, "mengde": 1 },
-      { "butikk": "B", "pris": 199, "mengde": 1 },
-      { "butikk": "Pingu", "pris": 250, "mengde": 1 }
+      { "butikk": "B", "pris": 199, "mengde": 1 }
     ]
   },
   {
@@ -3660,9 +3723,9 @@
     "Stack-size": 64,
     "name": "Cow Spawn Egg",
     "Butikker": [
+      { "butikk": "Store", "pris": 80, "mengde": 1 },
       { "butikk": "HonniKorn", "pris": 150, "mengde": 1 },
-      { "butikk": "B", "pris": 249, "mengde": 1 },
-      { "butikk": "Pingu", "pris": 400, "mengde": 1 }
+      { "butikk": "B", "pris": 249, "mengde": 1 }
     ]
   },
   { "key": "fox_spawn_egg", "Stack-size": 64, "name": "Fox Spawn Egg", "Butikker": [{ "butikk": "Regnbuen", "pris": 150, "mengde": 1 }] },
@@ -3683,12 +3746,21 @@
     "Stack-size": 64,
     "name": "Horse Spawn Egg",
     "Butikker": [
+      { "butikk": "Store", "pris": 90, "mengde": 1 },
       { "butikk": "Pingu", "pris": 600, "mengde": 1 },
       { "butikk": "B", "pris": 799, "mengde": 1 }
     ]
   },
   { "key": "llama_spawn_egg", "Stack-size": 64, "name": "Llama Spawn Egg", "Butikker": [{ "butikk": "Pingu", "pris": 600, "mengde": 1 }] },
-  { "key": "mooshroom_spawn_egg", "Stack-size": 64, "name": "Mooshroom Spawn Egg", "Butikker": [{ "butikk": "B", "pris": 299, "mengde": 1 }] },
+  {
+    "key": "mooshroom_spawn_egg",
+    "Stack-size": 64,
+    "name": "Mooshroom Spawn Egg",
+    "Butikker": [
+      { "butikk": "B", "pris": 299, "mengde": 1 },
+      { "butikk": "Store", "pris": 599, "mengde": 1 }
+    ]
+  },
   { "key": "panda_spawn_egg", "Stack-size": 64, "name": "Panda Spawn Egg", "Butikker": [{ "butikk": "Regnbuen", "pris": 300, "mengde": 1 }] },
   {
     "key": "parrot_spawn_egg",
@@ -3705,9 +3777,9 @@
     "Stack-size": 64,
     "name": "Pig Spawn Egg",
     "Butikker": [
+      { "butikk": "Store", "pris": 70, "mengde": 1 },
       { "butikk": "HonniKorn", "pris": 100, "mengde": 1 },
-      { "butikk": "B", "pris": 249, "mengde": 1 },
-      { "butikk": "Pingu", "pris": 300, "mengde": 1 }
+      { "butikk": "B", "pris": 249, "mengde": 1 }
     ]
   },
   {
@@ -3715,9 +3787,9 @@
     "Stack-size": 64,
     "name": "Sheep Spawn Egg",
     "Butikker": [
+      { "butikk": "Store", "pris": 80, "mengde": 1 },
       { "butikk": "Bakeriet", "pris": 150, "mengde": 1 },
-      { "butikk": "HonniKorn", "pris": 150, "mengde": 1 },
-      { "butikk": "B", "pris": 249, "mengde": 1 }
+      { "butikk": "HonniKorn", "pris": 150, "mengde": 1 }
     ]
   },
   { "key": "trader_llama_spawn_egg", "Stack-size": 64, "name": "Trader Llama Spawn Egg", "Butikker": [{ "butikk": "B", "pris": 999, "mengde": 1 }] },
@@ -3806,6 +3878,7 @@
     "name": "Flower Pot",
     "Butikker": [
       { "butikk": "Juxielle", "pris": 10, "mengde": 8 },
+      { "butikk": "Store", "pris": 12, "mengde": 3 },
       { "butikk": "Parken", "pris": 7, "mengde": 1 }
     ]
   },
@@ -3865,6 +3938,7 @@
     "name": "Dragon Head",
     "Butikker": [
       { "butikk": "Thayserix", "pris": 999, "mengde": 1 },
+      { "butikk": "Store", "pris": 1300, "mengde": 1 },
       { "butikk": "Quantum", "pris": 1500, "mengde": 1 }
     ]
   },
@@ -3886,7 +3960,7 @@
     "Butikker": [
       { "butikk": "SkogHolm", "pris": 159, "mengde": 64 },
       { "butikk": "Tbshop", "pris": 167, "mengde": 64 },
-      { "butikk": "Parken", "pris": 190, "mengde": 64 }
+      { "butikk": "Store", "pris": 89, "mengde": 32 }
     ]
   },
   {
@@ -3894,9 +3968,9 @@
     "Stack-size": 64,
     "name": "Nether Brick",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "Regnbuen", "pris": 8, "mengde": 16 },
-      { "butikk": "Pingu", "pris": 32, "mengde": 64 },
-      { "butikk": "TordenShop", "pris": 40, "mengde": 32 }
+      { "butikk": "Pingu", "pris": 32, "mengde": 64 }
     ]
   },
   {
@@ -3939,9 +4013,9 @@
     "Stack-size": 1,
     "name": "Diamond Horse Armor",
     "Butikker": [
+      { "butikk": "Store", "pris": 129, "mengde": 1 },
       { "butikk": "LogiCo", "pris": 150, "mengde": 1 },
-      { "butikk": "B", "pris": 390, "mengde": 1 },
-      { "butikk": "HonniKorn", "pris": 500, "mengde": 1 }
+      { "butikk": "B", "pris": 390, "mengde": 1 }
     ]
   },
   {
@@ -3980,8 +4054,8 @@
     "name": "Chorus Fruit",
     "Butikker": [
       { "butikk": "HonniKorn", "pris": 20, "mengde": 16 },
-      { "butikk": "Quantum", "pris": 16, "mengde": 8 },
-      { "butikk": "Pingu", "pris": 16, "mengde": 8 }
+      { "butikk": "Store", "pris": 25, "mengde": 16 },
+      { "butikk": "Quantum", "pris": 16, "mengde": 8 }
     ]
   },
   {
@@ -4040,7 +4114,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 20, "mengde": 16 },
       { "butikk": "Lumia", "pris": 20, "mengde": 1 },
-      { "butikk": "Quantum", "pris": 64, "mengde": 1 }
+      { "butikk": "Store", "pris": 39, "mengde": 1 }
     ]
   },
   {
@@ -4049,8 +4123,8 @@
     "name": "Spectral Arrow",
     "Butikker": [
       { "butikk": "B", "pris": 10, "mengde": 64 },
-      { "butikk": "Parken", "pris": 15, "mengde": 5 },
-      { "butikk": "HonniKorn", "pris": 100, "mengde": 8 }
+      { "butikk": "Store", "pris": 12, "mengde": 32 },
+      { "butikk": "Parken", "pris": 15, "mengde": 5 }
     ]
   },
   {
@@ -4058,9 +4132,9 @@
     "Stack-size": 1,
     "name": "Totem of Undying",
     "Butikker": [
+      { "butikk": "Store", "pris": 399, "mengde": 1 },
       { "butikk": "HonniKorn", "pris": 500, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 1400, "mengde": 1 },
-      { "butikk": "B", "pris": 1500, "mengde": 1 }
+      { "butikk": "Butikken", "pris": 1400, "mengde": 1 }
     ]
   },
   {
@@ -4078,9 +4152,9 @@
     "Stack-size": 1,
     "name": "Music Disc",
     "Butikker": [
+      { "butikk": "Store", "pris": 25, "mengde": 1 },
       { "butikk": "Regnbuen", "pris": 70, "mengde": 1 },
-      { "butikk": "B", "pris": 250, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 500, "mengde": 1 }
+      { "butikk": "B", "pris": 250, "mengde": 1 }
     ]
   },
   {
@@ -4088,9 +4162,9 @@
     "Stack-size": 1,
     "name": "Music Disc",
     "Butikker": [
+      { "butikk": "Store", "pris": 25, "mengde": 1 },
       { "butikk": "Regnbuen", "pris": 70, "mengde": 1 },
-      { "butikk": "B", "pris": 250, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 500, "mengde": 1 }
+      { "butikk": "B", "pris": 250, "mengde": 1 }
     ]
   },
   {
@@ -4332,8 +4406,8 @@
     "name": "Shroomlight",
     "Butikker": [
       { "butikk": "A", "pris": 10, "mengde": 64 },
-      { "butikk": "LogiCo", "pris": 65, "mengde": 32 },
-      { "butikk": "Marked", "pris": 80, "mengde": 32 }
+      { "butikk": "Kobai", "pris": 60, "mengde": 32 },
+      { "butikk": "LogiCo", "pris": 65, "mengde": 32 }
     ]
   },
   {
@@ -4373,8 +4447,8 @@
     "name": "Crying Obsidian",
     "Butikker": [
       { "butikk": "Thayserix", "pris": 24, "mengde": 1 },
-      { "butikk": "Butikken", "pris": 399, "mengde": 16 },
-      { "butikk": "B", "pris": 399, "mengde": 16 }
+      { "butikk": "Kobai", "pris": 24, "mengde": 1 },
+      { "butikk": "Butikken", "pris": 399, "mengde": 16 }
     ]
   },
   {
@@ -4468,9 +4542,9 @@
     "Stack-size": 64,
     "name": "Pointed Dripstone",
     "Butikker": [
+      { "butikk": "Store", "pris": 12, "mengde": 16 },
       { "butikk": "Lumia", "pris": 80, "mengde": 16 },
-      { "butikk": "Regnbuen", "pris": 100, "mengde": 8 },
-      { "butikk": "B", "pris": 20, "mengde": 1 }
+      { "butikk": "Regnbuen", "pris": 100, "mengde": 8 }
     ]
   },
   {
