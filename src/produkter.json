@@ -382,18 +382,12 @@
       { "butikk": "Marked", "pris": 25, "mengde": 64 }
     ]
   },
-  { "key": "coal_ore", "Stack-size": 64, "name": "Coal Ore", "Butikker": [{ "butikk": "0o", "pris": 35, "mengde": 1 }] },
   { "key": "deepslate_coal_ore", "Stack-size": 64, "name": "Deepslate Coal Ore", "Butikker": [{ "butikk": "Regnbuen", "pris": 250, "mengde": 1 }] },
-  { "key": "iron_ore", "Stack-size": 64, "name": "Iron Ore", "Butikker": [{ "butikk": "0o", "pris": 40, "mengde": 1 }] },
   { "key": "deepslate_iron_ore", "Stack-size": 64, "name": "Deepslate Iron Ore", "Butikker": [{ "butikk": "Regnbuen", "pris": 15, "mengde": 1 }] },
   { "key": "deepslate_copper_ore", "Stack-size": 64, "name": "Deepslate Copper Ore", "Butikker": [{ "butikk": "Regnbuen", "pris": 40, "mengde": 1 }] },
-  { "key": "gold_ore", "Stack-size": 64, "name": "Gold Ore", "Butikker": [{ "butikk": "0o", "pris": 120, "mengde": 1 }] },
   { "key": "deepslate_gold_ore", "Stack-size": 64, "name": "Deepslate Gold Ore", "Butikker": [{ "butikk": "Regnbuen", "pris": 50, "mengde": 1 }] },
-  { "key": "redstone_ore", "Stack-size": 64, "name": "Redstone Ore", "Butikker": [{ "butikk": "0o", "pris": 35, "mengde": 1 }] },
   { "key": "deepslate_redstone_ore", "Stack-size": 64, "name": "Deepslate Redstone Ore", "Butikker": [{ "butikk": "Regnbuen", "pris": 10, "mengde": 1 }] },
-  { "key": "lapis_ore", "Stack-size": 64, "name": "Lapis Lazuli Ore", "Butikker": [{ "butikk": "0o", "pris": 155, "mengde": 1 }] },
   { "key": "deepslate_lapis_ore", "Stack-size": 64, "name": "Deepslate Lapis Lazuli Ore", "Butikker": [{ "butikk": "Regnbuen", "pris": 20, "mengde": 1 }] },
-  { "key": "diamond_ore", "Stack-size": 64, "name": "Diamond Ore", "Butikker": [{ "butikk": "0o", "pris": 380, "mengde": 1 }] },
   {
     "key": "deepslate_diamond_ore",
     "Stack-size": 64,
@@ -605,9 +599,9 @@
     "Stack-size": 64,
     "name": "Oak Leaves",
     "Butikker": [
-      { "butikk": "0o", "pris": 48, "mengde": 64 },
       { "butikk": "Bukalu", "pris": 15, "mengde": 16 },
-      { "butikk": "Parken", "pris": 16, "mengde": 16 }
+      { "butikk": "Parken", "pris": 16, "mengde": 16 },
+      { "butikk": "Axolotl", "pris": 24, "mengde": 16 }
     ]
   },
   {
@@ -615,7 +609,6 @@
     "Stack-size": 64,
     "name": "Spruce Leaves",
     "Butikker": [
-      { "butikk": "0o", "pris": 10, "mengde": 64 },
       { "butikk": "Bukalu", "pris": 15, "mengde": 16 },
       { "butikk": "Billigshappa", "pris": 20, "mengde": 16 }
     ]
@@ -641,15 +634,7 @@
       { "butikk": "Bukalu", "pris": 20, "mengde": 16 }
     ]
   },
-  {
-    "key": "dark_oak_leaves",
-    "Stack-size": 64,
-    "name": "Dark Oak Leaves",
-    "Butikker": [
-      { "butikk": "0o", "pris": 20, "mengde": 64 },
-      { "butikk": "Billigshappa", "pris": 20, "mengde": 16 }
-    ]
-  },
+  { "key": "dark_oak_leaves", "Stack-size": 64, "name": "Dark Oak Leaves", "Butikker": [{ "butikk": "Billigshappa", "pris": 20, "mengde": 16 }] },
   { "key": "mangrove_leaves", "Stack-size": 64, "name": "Mangrove Leaves", "Butikker": [{ "butikk": "Billigshappa", "pris": 20, "mengde": 16 }] },
   {
     "key": "azalea_leaves",
@@ -1423,7 +1408,7 @@
     "Butikker": [
       { "butikk": "Kobai", "pris": 1, "mengde": 64 },
       { "butikk": "Store", "pris": 1, "mengde": 64 },
-      { "butikk": "0o", "pris": 2, "mengde": 64 }
+      { "butikk": "A", "pris": 4, "mengde": 64 }
     ]
   },
   {
@@ -1481,8 +1466,8 @@
     "name": "Glowstone",
     "Butikker": [
       { "butikk": "A", "pris": 8, "mengde": 32 },
-      { "butikk": "0o", "pris": 45, "mengde": 32 },
-      { "butikk": "Store", "pris": 32, "mengde": 16 }
+      { "butikk": "Store", "pris": 32, "mengde": 16 },
+      { "butikk": "Juxielle", "pris": 35, "mengde": 16 }
     ]
   },
   {
@@ -1492,7 +1477,7 @@
     "Butikker": [
       { "butikk": "Store", "pris": 12, "mengde": 64 },
       { "butikk": "Bukalu", "pris": 15, "mengde": 64 },
-      { "butikk": "0o", "pris": 22, "mengde": 64 }
+      { "butikk": "HonniKorn", "pris": 15, "mengde": 32 }
     ]
   },
   {
@@ -1656,7 +1641,7 @@
     "Stack-size": 64,
     "name": "Ender Chest",
     "Butikker": [
-      { "butikk": "SkogHolm", "pris": 60, "mengde": 1 },
+      { "butikk": "Kobai", "pris": 60, "mengde": 1 },
       { "butikk": "LogiCo", "pris": 100, "mengde": 1 },
       { "butikk": "Regnbuen", "pris": 200, "mengde": 1 }
     ]
@@ -2459,8 +2444,8 @@
     "name": "Redstone Dust",
     "Butikker": [
       { "butikk": "Store", "pris": 12, "mengde": 64 },
-      { "butikk": "0o", "pris": 10, "mengde": 32 },
-      { "butikk": "Bukalu", "pris": 20, "mengde": 64 }
+      { "butikk": "Bukalu", "pris": 20, "mengde": 64 },
+      { "butikk": "Tbshop", "pris": 6, "mengde": 16 }
     ]
   },
   {
@@ -2830,8 +2815,8 @@
     "name": "Lapis Lazuli",
     "Butikker": [
       { "butikk": "Tbshop", "pris": 4, "mengde": 16 },
-      { "butikk": "SkogHolm", "pris": 18, "mengde": 64 },
-      { "butikk": "Regnbuen", "pris": 20, "mengde": 64 }
+      { "butikk": "Regnbuen", "pris": 20, "mengde": 64 },
+      { "butikk": "Thayserix", "pris": 10, "mengde": 32 }
     ]
   },
   {
@@ -3274,9 +3259,9 @@
     "Stack-size": 64,
     "name": "Cooked Cod",
     "Butikker": [
-      { "butikk": "0o", "pris": 12, "mengde": 64 },
       { "butikk": "Store", "pris": 16, "mengde": 64 },
-      { "butikk": "Juxielle", "pris": 5, "mengde": 16 }
+      { "butikk": "Juxielle", "pris": 5, "mengde": 16 },
+      { "butikk": "Ida", "pris": 5, "mengde": 16 }
     ]
   },
   { "key": "cooked_salmon", "Stack-size": 64, "name": "Cooked Salmon", "Butikker": [{ "butikk": "Store", "pris": 16, "mengde": 4 }] },
@@ -3592,7 +3577,7 @@
     "Butikker": [
       { "butikk": "Juxielle", "pris": 2, "mengde": 32 },
       { "butikk": "B", "pris": 4, "mengde": 64 },
-      { "butikk": "0o", "pris": 5, "mengde": 64 }
+      { "butikk": "Quantum", "pris": 8, "mengde": 64 }
     ]
   },
   {
@@ -3654,7 +3639,6 @@
       { "butikk": "Quantum", "pris": 16, "mengde": 64 }
     ]
   },
-  { "key": "blaze_powder", "Stack-size": 64, "name": "Blaze Powder", "Butikker": [{ "butikk": "0o", "pris": 5, "mengde": 32 }] },
   {
     "key": "magma_cream",
     "Stack-size": 64,
@@ -3681,9 +3665,9 @@
     "Stack-size": 64,
     "name": "Eye of Ender",
     "Butikker": [
+      { "butikk": "Kobai", "pris": 20, "mengde": 8 },
       { "butikk": "Butikken", "pris": 30, "mengde": 8 },
-      { "butikk": "Quantum", "pris": 32, "mengde": 4 },
-      { "butikk": "LogiCo", "pris": 25, "mengde": 1 }
+      { "butikk": "Quantum", "pris": 32, "mengde": 4 }
     ]
   },
   { "key": "glistering_melon_slice", "Stack-size": 64, "name": "Glistering Melon Slice", "Butikker": [{ "butikk": "Store", "pris": 89, "mengde": 1 }] },
@@ -3736,7 +3720,7 @@
     "Butikker": [
       { "butikk": "Leoshop", "pris": 15, "mengde": 4 },
       { "butikk": "Butikken", "pris": 10, "mengde": 1 },
-      { "butikk": "SkogHolm", "pris": 10, "mengde": 1 }
+      { "butikk": "Juxielle", "pris": 200, "mengde": 16 }
     ]
   },
   { "key": "glow_squid_spawn_egg", "Stack-size": 64, "name": "Glow Squid Spawn Egg", "Butikker": [{ "butikk": "B", "pris": 999, "mengde": 1 }] },
@@ -3799,8 +3783,8 @@
     "name": "Villager Spawn Egg",
     "Butikker": [
       { "butikk": "Regnbuen", "pris": 200, "mengde": 1 },
-      { "butikk": "0o", "pris": 200, "mengde": 1 },
-      { "butikk": "HonniKorn", "pris": 200, "mengde": 1 }
+      { "butikk": "HonniKorn", "pris": 200, "mengde": 1 },
+      { "butikk": "B", "pris": 499, "mengde": 1 }
     ]
   },
   {
@@ -3839,7 +3823,7 @@
     "Butikker": [
       { "butikk": "Butikken", "pris": 5, "mengde": 1 },
       { "butikk": "B", "pris": 35, "mengde": 1 },
-      { "butikk": "SkogHolm", "pris": 40, "mengde": 1 }
+      { "butikk": "Regnbuen", "pris": 50, "mengde": 1 }
     ]
   },
   {
@@ -3958,8 +3942,8 @@
     "Stack-size": 64,
     "name": "Firework Rocket",
     "Butikker": [
-      { "butikk": "SkogHolm", "pris": 159, "mengde": 64 },
       { "butikk": "Tbshop", "pris": 167, "mengde": 64 },
+      { "butikk": "Kobai", "pris": 169, "mengde": 64 },
       { "butikk": "Store", "pris": 89, "mengde": 32 }
     ]
   },
@@ -4471,7 +4455,6 @@
       { "butikk": "Thayserix", "pris": 16, "mengde": 1 }
     ]
   },
-  { "key": "polished_blackstone", "Stack-size": 64, "name": "Polished Blackstone", "Butikker": [{ "butikk": "0o", "pris": 170, "mengde": 64 }] },
   { "key": "polished_blackstone_bricks", "Stack-size": 64, "name": "Polished Blackstone Bricks", "Butikker": [{ "butikk": "Regnbuen", "pris": 150, "mengde": 16 }] },
   { "key": "cracked_polished_blackstone_bricks", "Stack-size": 64, "name": "Cracked Polished Blackstone Bricks", "Butikker": [{ "butikk": "Regnbuen", "pris": 150, "mengde": 16 }] },
   {
