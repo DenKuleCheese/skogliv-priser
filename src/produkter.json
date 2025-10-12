@@ -3949,7 +3949,7 @@
     "name": "Firework Rocket",
     "Butikker": [
       { "butikk": "Tbshop", "pris": 167, "mengde": 64 },
-      { "butikk": "Kobai", "pris": 169, "mengde": 64 },
+      { "butikk": "Kobai", "pris": 220, "mengde": 64 },
       { "butikk": "Store", "pris": 89, "mengde": 32 }
     ]
   },
