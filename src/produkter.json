@@ -3949,8 +3949,8 @@
     "name": "Firework Rocket",
     "Butikker": [
       { "butikk": "Tbshop", "pris": 167, "mengde": 64 },
-      { "butikk": "Kobai", "pris": 220, "mengde": 64 },
-      { "butikk": "Store", "pris": 89, "mengde": 32 }
+      { "butikk": "Store", "pris": 89, "mengde": 32 },
+      { "butikk": "Parken", "pris": 190, "mengde": 64 }
     ]
   },
   {
@@ -3963,6 +3963,7 @@
       { "butikk": "Pingu", "pris": 32, "mengde": 64 }
     ]
   },
+  { "key": "resin_brick", "Stack-size": 64, "name": "Resin Brick", "Butikker": [{ "butikk": "larzzern", "pris": 39, "mengde": 1 }] },
   {
     "key": "prismarine_shard",
     "Stack-size": 64,
