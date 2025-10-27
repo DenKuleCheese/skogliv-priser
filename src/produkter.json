@@ -3243,8 +3243,8 @@
     "Stack-size": 64,
     "name": "Raw Cod",
     "Butikker": [
+      { "butikk": "Juxielle", "pris": 2.5, "mengde": 16 },
       { "butikk": "Regnbuen", "pris": 20, "mengde": 64 },
-      { "butikk": "Juxielle", "pris": 5, "mengde": 16 },
       { "butikk": "Thayserix", "pris": 5, "mengde": 16 }
     ]
   },
@@ -3264,8 +3264,8 @@
     "Stack-size": 64,
     "name": "Cooked Cod",
     "Butikker": [
+      { "butikk": "Juxielle", "pris": 2.5, "mengde": 16 },
       { "butikk": "Store", "pris": 16, "mengde": 64 },
-      { "butikk": "Juxielle", "pris": 5, "mengde": 16 },
       { "butikk": "Ida", "pris": 5, "mengde": 16 }
     ]
   },
